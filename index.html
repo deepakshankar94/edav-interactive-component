@@ -1,33 +1,64 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Interactive component of EDAV</title>
 	<link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
-	<div id="container" style="position: relative; width: 1000px; height: 800px;"></div>
+	<div id="heading">Demographic data explorer</div>
+	<div id="subheading">Please <span id="click">click</span> on a country to view it's demographic data</div>
 
-	<div class="graph">
-		<div>
-			
-		</div>
-	</div>
+		<div id="container"></div>
+
+
+
 
 	<div id="bar_charts">
-		<div id="bar_gender">
+		<div class="bar-box-container left">
+			<div class="bar-box">
+				<div class="bar-heading">
+					Sex Ration of <span class="country-name"></span>
+				</div>
+				<div id="bar_gender" class="bar-chart">
+					Please select a country
+				</div>
+			</div>
+		</div>
+		<div class="bar-box-container right">
+			<div class="bar-box">
+				<div class="bar-heading">
+					Top databases of <span class="country-name"></span>
+				</div>
+			
+				<div id="bar_database" class="bar-chart">
+					Please select a country
+				</div>
+			</div>
+		</div>
+				<div class="bar-box-container left">
+			<div class="bar-box">
+				<div class="bar-heading">
+					Top programming languages of <span class="country-name"></span>
+				</div>
+			
+				<div id="bar_language" class="bar-chart">
+					Please select a country
+				</div>
+			</div>
+		</div>
+				<div class="bar-box-container right">
+			<div class="bar-box">
+				<div class="bar-heading">
+					Top platforms of <span class="country-name"></span>
+				</div>
+			
+				<div id="bar_platform" class="bar-chart">
+					Please select a country
+				</div>
+			</div>
 		</div>
 
-		<div id="bar_database">
-			
-		</div>
 
-		<div id="bar_language">
-			
-		</div>
-
-		<div id="bar_platform">
-			
-		</div>
 
 	</div>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>

@@ -90,19 +90,19 @@ Chile,SQL Server,2
 China,Amazon DynamoDB,1
 China,Amazon RDS/Aurora,1
 China,Apache HBase,2
-China,Apache Hive,6
+China,Apache Hive,7
 China,Cassandra,1
 China,Elasticsearch,2
 China,Google BigQuery,1
-China,MariaDB,1
-China,MongoDB,2
-China,MySQL,9
+China,MariaDB,2
+China,MongoDB,3
+China,MySQL,12
 China,Neo4j,1
 China,Oracle,1
-China,PostgreSQL,2
-China,Redis,2
-China,SQL Server,3
-China,SQLite,1
+China,PostgreSQL,3
+China,Redis,3
+China,SQL Server,4
+China,SQLite,2
 Colombia,Google Cloud Storage,1
 Colombia,MongoDB,3
 Colombia,PostgreSQL,2
@@ -179,14 +179,6 @@ Greece,Redis,1
 Guatemala,MariaDB,1
 Guatemala,MySQL,1
 Guatemala,SQL Server,1
-Hong Kong (S.A.R.),Apache Hive,1
-Hong Kong (S.A.R.),MariaDB,1
-Hong Kong (S.A.R.),MongoDB,1
-Hong Kong (S.A.R.),MySQL,3
-Hong Kong (S.A.R.),PostgreSQL,1
-Hong Kong (S.A.R.),Redis,1
-Hong Kong (S.A.R.),SQL Server,1
-Hong Kong (S.A.R.),SQLite,1
 Hungary,Apache HBase,1
 Hungary,Apache Hive,1
 Hungary,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
@@ -219,8 +211,8 @@ India,SQLite,16
 Indonesia,Cassandra,1
 Indonesia,MongoDB,1
 Indonesia,MySQL,1
-"Iran, Islamic Republic of...",MySQL,1
-"Iran, Islamic Republic of...",SQL Server,1
+Iran,MySQL,1
+Iran,SQL Server,1
 Iraq,MySQL,1
 Ireland,Amazon Redshift,1
 Ireland,Apache Hive,2
@@ -373,11 +365,6 @@ Norway,Oracle,1
 Norway,PostgreSQL,2
 Norway,SQL Server,6
 Norway,SQLite,1
-Other Country (Not Listed Above),Apache Hive,1
-Other Country (Not Listed Above),MongoDB,1
-Other Country (Not Listed Above),Oracle,1
-Other Country (Not Listed Above),PostgreSQL,1
-Other Country (Not Listed Above),SQL Server,1
 Pakistan,Apache Hive,1
 Pakistan,Cassandra,1
 Pakistan,Oracle,1
@@ -422,19 +409,19 @@ Romania,MySQL,2
 Romania,PostgreSQL,2
 Romania,SQL Server,3
 Romania,SQLite,1
-Russian Federation,Amazon DynamoDB,1
-Russian Federation,Amazon Redshift,1
-Russian Federation,Apache HBase,1
-Russian Federation,Apache Hive,3
-Russian Federation,Elasticsearch,2
-Russian Federation,IBM Db2,1
-Russian Federation,MongoDB,1
-Russian Federation,MySQL,5
-Russian Federation,Oracle,1
-Russian Federation,PostgreSQL,5
-Russian Federation,Redis,1
-Russian Federation,SQL Server,4
-Russian Federation,SQLite,1
+Russia,Amazon DynamoDB,1
+Russia,Amazon Redshift,1
+Russia,Apache HBase,1
+Russia,Apache Hive,3
+Russia,Elasticsearch,2
+Russia,IBM Db2,1
+Russia,MongoDB,1
+Russia,MySQL,5
+Russia,Oracle,1
+Russia,PostgreSQL,5
+Russia,Redis,1
+Russia,SQL Server,4
+Russia,SQLite,1
 Saudi Arabia,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
 Saudi Arabia,MongoDB,1
 Saudi Arabia,MySQL,1
@@ -554,33 +541,33 @@ United Kingdom,SQL Server,30
 United Kingdom,SQLite,11
 United Republic of Tanzania,MySQL,1
 United Republic of Tanzania,SQL Server,1
-United States,Amazon DynamoDB,15
-United States,Amazon RDS/Aurora,17
-United States,Amazon Redshift,41
-United States,Apache HBase,13
-United States,Apache Hive,51
-United States,Cassandra,8
-United States,Elasticsearch,27
-United States,Google BigQuery,25
-United States,Google Cloud Storage,25
-United States,IBM Db2,15
-United States,MariaDB,11
-United States,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",25
-United States,MongoDB,50
-United States,MySQL,111
-United States,Neo4j,12
-United States,Oracle,25
-United States,PostgreSQL,108
-United States,Redis,26
-United States,SQL Server,140
-United States,SQLite,38
-"Venezuela, Bolivarian Republic of...",MongoDB,1
-"Venezuela, Bolivarian Republic of...",MySQL,1
-"Venezuela, Bolivarian Republic of...",PostgreSQL,1
-Viet Nam,Elasticsearch,2
-Viet Nam,MongoDB,2
-Viet Nam,MySQL,2
-Viet Nam,PostgreSQL,2
-Viet Nam,Redis,1
-Viet Nam,SQL Server,2
-Viet Nam,SQLite,1
+United States of America,Amazon DynamoDB,15
+United States of America,Amazon RDS/Aurora,17
+United States of America,Amazon Redshift,41
+United States of America,Apache HBase,13
+United States of America,Apache Hive,51
+United States of America,Cassandra,8
+United States of America,Elasticsearch,27
+United States of America,Google BigQuery,25
+United States of America,Google Cloud Storage,25
+United States of America,IBM Db2,15
+United States of America,MariaDB,11
+United States of America,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",25
+United States of America,MongoDB,50
+United States of America,MySQL,111
+United States of America,Neo4j,12
+United States of America,Oracle,25
+United States of America,PostgreSQL,108
+United States of America,Redis,26
+United States of America,SQL Server,140
+United States of America,SQLite,38
+Venezuela,MongoDB,1
+Venezuela,MySQL,1
+Venezuela,PostgreSQL,1
+Vietnam,Elasticsearch,2
+Vietnam,MongoDB,2
+Vietnam,MySQL,2
+Vietnam,PostgreSQL,2
+Vienam,Redis,1
+Vietnam,SQL Server,2
+Vietnam,SQLite,1

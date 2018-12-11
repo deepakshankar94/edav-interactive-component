@@ -66,17 +66,18 @@ Canada,Windows Desktop or Server,9
 Canada,WordPress,2
 Chile,Azure,1
 Chile,Linux,2
-Chile,Raspberry Pi,1
-Chile,Windows Desktop or Server,1
+Chile,Raspberry Pi,2
+Chile,Windows Desktop or Server,3
 China,Arduino,1
 China,AWS,2
-China,Google Cloud Platform/App Engine,1
+China,Google Cloud Platform/App Engine,2
 China,Google Home,1
 China,Heroku,1
-China,Linux,12
+China,Linux,15
 China,Mac OS,5
 China,Windows Desktop or Server,3
 China,Windows Phone,1
+China,WordPress,1
 Colombia,Android,1
 Colombia,AWS,1
 Colombia,Google Cloud Platform/App Engine,1
@@ -146,11 +147,6 @@ Greece,Windows Desktop or Server,1
 Guatemala,Android,1
 Guatemala,Linux,1
 Hong Kong (S.A.R.),Firebase,1
-Hong Kong (S.A.R.),Google Cloud Platform/App Engine,1
-Hong Kong (S.A.R.),Linux,3
-Hong Kong (S.A.R.),Raspberry Pi,1
-Hong Kong (S.A.R.),Windows Desktop or Server,2
-Hong Kong (S.A.R.),WordPress,1
 Hungary,AWS,1
 Hungary,Linux,3
 Hungary,SharePoint,1
@@ -182,8 +178,8 @@ Indonesia,Android,1
 Indonesia,Linux,1
 Indonesia,Mac OS,1
 Indonesia,Windows Desktop or Server,1
-"Iran, Islamic Republic of...",Linux,1
-"Iran, Islamic Republic of...",Windows Desktop or Server,1
+Iran,Linux,1
+Iran,Windows Desktop or Server,1
 Iraq,Android,1
 Ireland,AWS,1
 Ireland,Google Cloud Platform/App Engine,1
@@ -323,11 +319,6 @@ Norway,Linux,1
 Norway,Mac OS,1
 Norway,Raspberry Pi,1
 Norway,Windows Desktop or Server,2
-Other Country (Not Listed Above),AWS,1
-Other Country (Not Listed Above),Linux,1
-Other Country (Not Listed Above),Mac OS,1
-Other Country (Not Listed Above),Raspberry Pi,1
-Other Country (Not Listed Above),Windows Desktop or Server,1
 Pakistan,Amazon Echo,1
 Pakistan,Android,1
 Pakistan,Apple Watch or Apple TV,1
@@ -361,11 +352,11 @@ Portugal,Firebase,2
 Portugal,Linux,2
 Portugal,Mac OS,2
 Portugal,Windows Desktop or Server,3
-Russian Federation,AWS,4
-Russian Federation,Heroku,1
-Russian Federation,Linux,9
-Russian Federation,Mac OS,2
-Russian Federation,Windows Desktop or Server,6
+Russia,AWS,4
+Russia,Heroku,1
+Russia,Linux,9
+Russia,Mac OS,2
+Russia,Windows Desktop or Server,6
 Saudi Arabia,Arduino,1
 Saudi Arabia,Linux,1
 Saudi Arabia,Raspberry Pi,1
@@ -464,39 +455,39 @@ United Republic of Tanzania,Android,1
 United Republic of Tanzania,Arduino,1
 United Republic of Tanzania,Windows Desktop or Server,1
 United Republic of Tanzania,WordPress,1
-United States,Amazon Echo,8
-United States,Android,15
-United States,Apple Watch or Apple TV,2
-United States,Arduino,16
-United States,AWS,75
-United States,Azure,16
-United States,Drupal,1
-United States,ESP8266,1
-United States,Firebase,3
-United States,Gaming console,3
-United States,Google Cloud Platform/App Engine,25
-United States,Heroku,16
-United States,IBM Cloud or Watson,6
-United States,iOS,11
-United States,Linux,111
-United States,Mac OS,55
-United States,Mainframe,2
-United States,Raspberry Pi,30
-United States,Salesforce,12
-United States,Serverless,6
-United States,SharePoint,10
-United States,Windows Desktop or Server,64
-United States,Windows Phone,1
-United States,WordPress,6
-"Venezuela, Bolivarian Republic of...",Android,1
-"Venezuela, Bolivarian Republic of...",Arduino,1
-"Venezuela, Bolivarian Republic of...",ESP8266,1
-Viet Nam,Android,2
-Viet Nam,AWS,1
-Viet Nam,Firebase,2
-Viet Nam,Google Cloud Platform/App Engine,1
-Viet Nam,Heroku,2
-Viet Nam,iOS,1
-Viet Nam,Linux,1
-Viet Nam,Mac OS,1
-Viet Nam,Raspberry Pi,1
+United States of America,Amazon Echo,8
+United States of America,Android,15
+United States of America,Apple Watch or Apple TV,2
+United States of America,Arduino,16
+United States of America,AWS,75
+United States of America,Azure,16
+United States of America,Drupal,1
+United States of America,ESP8266,1
+United States of America,Firebase,3
+United States of America,Gaming console,3
+United States of America,Google Cloud Platform/App Engine,25
+United States of America,Heroku,16
+United States of America,IBM Cloud or Watson,6
+United States of America,iOS,11
+United States of America,Linux,111
+United States of America,Mac OS,55
+United States of America,Mainframe,2
+United States of America,Raspberry Pi,30
+United States of America,Salesforce,12
+United States of America,Serverless,6
+United States of America,SharePoint,10
+United States of America,Windows Desktop or Server,64
+United States of America,Windows Phone,1
+United States of America,WordPress,6
+Venezuela,Android,1
+Venezuela,Arduino,1
+Venezuela,ESP8266,1
+Vietnam,Android,2
+Vietnam,AWS,1
+Vietnam,Firebase,2
+Vietnam,Google Cloud Platform/App Engine,1
+Vietnam,Heroku,2
+Vietnam,iOS,1
+Vietnam,Linux,1
+Vietnam,Mac OS,1
+Vietnam,Raspberry Pi,1

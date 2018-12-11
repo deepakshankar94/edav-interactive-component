@@ -1,21 +1,17 @@
 Country,Gender,Count
 Albania,Male,1
 Algeria,Male,1
-Andorra,Female,1
+Andorra,Male,0
 Argentina,Male,2
-Australia,Female,4
 Australia,Male,20
 Austria,Male,6
 Bangladesh,Male,1
 Belgium,Male,10
 Brazil,Male,15
 Bulgaria,Male,1
-Canada,Female,9
 Canada,Male,23
 Chile,Male,4
-China,Female,1
-China,Male,10
-Colombia,Female,1
+China,Male,15
 Colombia,Male,3
 Croatia,Male,1
 Cyprus,Male,1
@@ -24,80 +20,132 @@ Denmark,Male,6
 Egypt,Male,2
 Estonia,Male,1
 Finland,Male,7
-France,Female,3
 France,Male,35
-Germany,Female,2
 Germany,Male,58
 Ghana,Male,1
 Greece,Male,2
-Guatemala,Female,1
-Hong Kong (S.A.R.),Female,1
-Hong Kong (S.A.R.),Male,5
-Hungary,Female,2
+Guatemala,Male,0
 Hungary,Male,3
-India,Female,8
 India,Male,71
-Iraq,Female,1
+Iraq,Male,0
 Ireland,Male,4
-Israel,Female,1
 Israel,Male,12
-Italy,Female,1
 Italy,Male,10
 Japan,Male,3
 Kuwait,Male,1
 Latvia,Male,1
 Lebanon,Male,1
 Lithuania,Male,1
-Luxembourg,Female,1
+Luxembourg,Male,0
 Malaysia,Male,1
 Maldives,Male,1
-Mauritius,Female,1
-Mexico,Female,1
+Mauritius,Male,0
 Mexico,Male,8
 Morocco,Male,2
 Mozambique,Male,1
 Nepal,Male,2
-Netherlands,Female,2
 Netherlands,Male,12
-New Zealand,Female,2
 New Zealand,Male,6
-Norway,Female,1
 Norway,Male,7
-Other Country (Not Listed Above),Male,1
 Pakistan,Male,3
-Peru,Female,1
-Philippines,Female,1
+Peru,Male,0
 Philippines,Male,3
-Poland,Female,1
 Poland,Male,12
-Portugal,Female,1
 Portugal,Male,5
 Romania,Male,5
-Russian Federation,Female,2
-Russian Federation,Male,9
-Saudi Arabia,Female,1
+Russia,Male,9
 Saudi Arabia,Male,1
-Singapore,Female,1
 Singapore,Male,5
 Slovakia,Male,3
 Slovenia,Male,1
 South Africa,Male,3
 South Korea,Male,1
-Spain,Female,2
 Spain,Male,15
 Sweden,Male,9
 Switzerland,Male,6
 Taiwan,Male,1
 Thailand,Male,2
-Turkey,Female,1
 Turkey,Male,8
 Uganda,Male,1
 Ukraine,Male,7
-United Kingdom,Female,7
 United Kingdom,Male,71
 United Republic of Tanzania,Male,1
-United States,Female,38
-United States,Male,261
+United States of America,Male,261
+Uruguay,Male,0
+Venezuela,Male,1
+Vietnam,Male,3
+Albania,Female,0
+Algeria,Female,0
+Andorra,Female,1
+Argentina,Female,0
+Australia,Female,4
+Austria,Female,0
+Bangladesh,Female,0
+Belgium,Female,0
+Brazil,Female,0
+Bulgaria,Female,0
+Canada,Female,9
+Chile,Female,0
+China,Female,2
+Colombia,Female,1
+Croatia,Female,0
+Cyprus,Female,0
+Czech Republic,Female,0
+Denmark,Female,0
+Egypt,Female,0
+Estonia,Female,0
+Finland,Female,0
+France,Female,3
+Germany,Female,2
+Ghana,Female,0
+Greece,Female,0
+Guatemala,Female,1
+Hungary,Female,2
+India,Female,8
+Iraq,Female,1
+Ireland,Female,0
+Israel,Female,1
+Italy,Female,1
+Japan,Female,0
+Kuwait,Female,0
+Latvia,Female,0
+Lebanon,Female,0
+Lithuania,Female,0
+Luxembourg,Female,1
+Malaysia,Female,0
+Maldives,Female,0
+Mauritius,Female,1
+Mexico,Female,1
+Morocco,Female,0
+Mozambique,Female,0
+Nepal,Female,0
+Netherlands,Female,2
+New Zealand,Female,2
+Norway,Female,1
+Pakistan,Female,0
+Peru,Female,1
+Philippines,Female,1
+Poland,Female,1
+Portugal,Female,1
+Romania,Female,0
+Russia,Female,2
+Saudi Arabia,Female,1
+Singapore,Female,1
+Slovakia,Female,0
+Slovenia,Female,0
+South Africa,Female,0
+South Korea,Female,0
+Spain,Female,2
+Sweden,Female,0
+Switzerland,Female,0
+Taiwan,Female,0
+Thailand,Female,0
+Turkey,Female,1
+Uganda,Female,0
+Ukraine,Female,0
+United Kingdom,Female,7
+United Republic of Tanzania,Female,0
+United States of America,Female,38
 Uruguay,Female,1
-"Venezuela, Bolivarian Republic of...",Male,1
-Viet Nam,Male,3
+Venezuela,Female,0
+Vietnam,Female,0

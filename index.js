@@ -35,6 +35,7 @@ d3.csv("./data/platform.csv",(data)=>{
 
 
 function setup_barcharts(country){
+	d3.selectAll(".country-name").text(country);
 	d3.select("#bar_gender").html("")
 	if(gender[country] != undefined){
 		dict = gender[country]
@@ -51,7 +52,9 @@ function setup_barcharts(country){
 		values = Object.keys(dict).map(function(key) {
 		  return dict[key];
 		});
-		create_barchart(bars,keys,values,"#bar_gender")
+		create_barchart(bars,keys,values,"#bar_gender","Gender")
+	}else{
+		d3.select("#bar_gender").html("No gender data for this country")
 	}
 
 	d3.select("#bar_database").html("")
@@ -75,7 +78,9 @@ function setup_barcharts(country){
 		values = bars.map(function(ele) {
 		  return ele[1]
 		});
-		create_barchart(bars,keys,values,"#bar_database")
+		create_barchart(bars,keys,values,"#bar_database","Databases")
+	}else{
+		d3.select("#bar_database").html("No database data for this country")
 	}
 
 	d3.select("#bar_language").html("")
@@ -99,7 +104,9 @@ function setup_barcharts(country){
 		values = bars.map(function(ele) {
 		  return ele[1]
 		});
-		create_barchart(bars,keys,values,"#bar_language")
+		create_barchart(bars,keys,values,"#bar_language","Languages")
+	}else{
+		d3.select("#bar_language").html("No language data for this country")
 	}
 
 	d3.select("#bar_platform").html("")
@@ -123,7 +130,9 @@ function setup_barcharts(country){
 		values = bars.map(function(ele) {
 		  return ele[1]
 		});
-		create_barchart(bars,keys,values,"#bar_platform")
+		create_barchart(bars,keys,values,"#bar_platform", "Platforms")
+	}else{
+		d3.select("#bar_platform").html("No platform data for this country")
 	}
 
 	
@@ -131,11 +140,11 @@ function setup_barcharts(country){
 
 
 
-function create_barchart(bars,keys,values,id){
-  var w = 500;
+function create_barchart(bars,keys,values,id,xlabel){
+  var w = 600;
   var h = 400;
-  var margin = {top: 25, right: 25, bottom: 25,
-      left: 25};
+  var margin = {top: 40, right: 0, bottom: 50,
+      left: 100};
   var innerWidth = w - margin.left - margin.right;
   var innerHeight = h - margin.top - margin.bottom;
   var svg = d3.select(id)
@@ -147,7 +156,21 @@ function create_barchart(bars,keys,values,id){
       .attr("y", 0)
       .attr("width", w)
       .attr("height", h)
-      .attr("fill", "lightblue");
+      .attr("fill", "white");
+  svg.append("text")             
+      .attr("transform",
+            "translate(" + (w/2) + " ," + 
+                           (h + margin.top - 45) + ")")
+      .style("text-anchor", "middle")
+      .text(xlabel);
+  svg.append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", margin.left/2 - 20)
+      .attr("x",0 - (h / 2))
+      .attr("dy", "1em")
+      .style("text-anchor", "middle")
+      .text("Number of respondents"); 
+
   var xScale = d3.scaleBand()
       .domain(keys)	
       .range([0, innerWidth])
@@ -169,7 +192,7 @@ function create_barchart(bars,keys,values,id){
       .attr("y", d => yScale(d[1]))
       .attr("width", xScale.bandwidth())
       .attr("height", d => innerHeight - yScale(d[1]))
-      .attr("fill", "blue");
+      .attr("fill", "#4A42CE");
   svg.append("g")                                  // NEW
       .attr("class", "yAxis")
       .attr("transform", `translate (${margin.left}, ${margin.top})`)

@@ -9,7 +9,6 @@ Albania,SQL,1
 Algeria,C#,1
 Algeria,Delphi/Object Pascal,1
 Algeria,SQL,1
-Algeria,NA,1
 Andorra,Assembly,1
 Argentina,Bash/Shell,1
 Argentina,C++,1
@@ -44,7 +43,6 @@ Australia,TypeScript,3
 Australia,VB.NET,1
 Australia,VBA,7
 Australia,Visual Basic 6,1
-Australia,NA,5
 Austria,Bash/Shell,2
 Austria,C,1
 Austria,C#,1
@@ -67,8 +65,6 @@ Austria,VBA,1
 Bangladesh,C#,1
 Bangladesh,R,1
 Bangladesh,SQL,1
-Bangladesh,NA,1
-Belarus,NA,1
 Belgium,Assembly,2
 Belgium,Bash/Shell,7
 Belgium,C,3
@@ -85,7 +81,6 @@ Belgium,R,5
 Belgium,Ruby,1
 Belgium,SQL,6
 Belgium,VBA,2
-Belgium,NA,1
 Brazil,Bash/Shell,7
 Brazil,C,3
 Brazil,C#,1
@@ -102,7 +97,6 @@ Brazil,R,8
 Brazil,Scala,2
 Brazil,SQL,12
 Brazil,VBA,1
-Brazil,NA,2
 Bulgaria,Cobol,1
 Bulgaria,VB.NET,1
 Bulgaria,VBA,1
@@ -135,31 +129,29 @@ Canada,Swift,1
 Canada,VB.NET,1
 Canada,VBA,4
 Canada,Visual Basic 6,1
-Canada,NA,12
 Chile,Bash/Shell,1
 Chile,Matlab,1
 Chile,Python,3
 Chile,R,2
 Chile,SQL,4
-Chile,NA,1
-China,Bash/Shell,4
+China,Bash/Shell,6
 China,C,6
-China,C#,1
+China,C#,2
 China,C++,2
 China,Cobol,1
-China,CSS,1
+China,CSS,2
 China,Go,1
-China,HTML,2
-China,Java,4
-China,JavaScript,1
+China,HTML,5
+China,Java,6
+China,JavaScript,4
 China,Matlab,1
 China,Perl,1
-China,Python,13
-China,R,6
-China,Scala,5
-China,SQL,5
+China,Python,19
+China,R,9
+China,Scala,7
+China,SQL,8
 China,Visual Basic 6,1
-China,NA,8
+China,VBA,1
 Colombia,CSS,2
 Colombia,Erlang,1
 Colombia,HTML,2
@@ -169,7 +161,6 @@ Colombia,Matlab,1
 Colombia,Python,3
 Colombia,R,2
 Colombia,VBA,1
-Colombia,NA,1
 Croatia,C,1
 Croatia,C++,1
 Croatia,Matlab,1
@@ -208,7 +199,6 @@ Denmark,Python,3
 Denmark,R,2
 Denmark,SQL,2
 Denmark,VBA,1
-Denmark,NA,2
 Egypt,C++,1
 Egypt,CSS,1
 Egypt,Haskell,1
@@ -218,7 +208,6 @@ Egypt,Python,2
 Egypt,R,1
 Egypt,Rust,1
 Egypt,SQL,1
-El Salvador,NA,1
 Estonia,C++,1
 Estonia,CSS,1
 Estonia,HTML,1
@@ -241,7 +230,6 @@ Finland,Python,6
 Finland,R,2
 Finland,SQL,3
 Finland,VBA,1
-Finland,NA,2
 France,Bash/Shell,18
 France,C,13
 France,C#,6
@@ -267,8 +255,6 @@ France,SQL,19
 France,VB.NET,2
 France,VBA,2
 France,Visual Basic 6,1
-France,NA,15
-Gabon,NA,1
 Germany,Assembly,3
 Germany,Bash/Shell,31
 Germany,C,18
@@ -300,9 +286,7 @@ Germany,Swift,2
 Germany,TypeScript,4
 Germany,VB.NET,1
 Germany,VBA,9
-Germany,NA,15
 Ghana,R,1
-Ghana,NA,1
 Greece,Java,1
 Greece,Python,3
 Greece,R,2
@@ -313,18 +297,6 @@ Guatemala,HTML,1
 Guatemala,JavaScript,1
 Guatemala,PHP,1
 Guatemala,SQL,1
-Haiti,NA,1
-Hong Kong (S.A.R.),Bash/Shell,2
-Hong Kong (S.A.R.),C#,1
-Hong Kong (S.A.R.),CSS,1
-Hong Kong (S.A.R.),HTML,3
-Hong Kong (S.A.R.),Java,2
-Hong Kong (S.A.R.),JavaScript,3
-Hong Kong (S.A.R.),Python,6
-Hong Kong (S.A.R.),R,3
-Hong Kong (S.A.R.),Scala,2
-Hong Kong (S.A.R.),SQL,3
-Hong Kong (S.A.R.),VBA,1
 Hungary,Bash/Shell,2
 Hungary,C++,2
 Hungary,CSS,2
@@ -338,7 +310,6 @@ Hungary,Python,3
 Hungary,R,2
 Hungary,SQL,2
 Hungary,VBA,1
-Hungary,NA,1
 India,Assembly,9
 India,Bash/Shell,27
 India,C,36
@@ -372,7 +343,6 @@ India,TypeScript,1
 India,VB.NET,2
 India,VBA,9
 India,Visual Basic 6,2
-India,NA,41
 Indonesia,Julia,1
 Indonesia,Lua,1
 Indonesia,Matlab,2
@@ -380,16 +350,15 @@ Indonesia,Python,2
 Indonesia,R,1
 Indonesia,Scala,1
 Indonesia,SQL,1
-"Iran, Islamic Republic of...",C,1
-"Iran, Islamic Republic of...",C#,1
-"Iran, Islamic Republic of...",CSS,2
-"Iran, Islamic Republic of...",HTML,2
-"Iran, Islamic Republic of...",Java,1
-"Iran, Islamic Republic of...",JavaScript,1
-"Iran, Islamic Republic of...",Matlab,1
-"Iran, Islamic Republic of...",Python,1
-"Iran, Islamic Republic of...",SQL,1
-"Iran, Islamic Republic of...",NA,2
+Iran,C,1
+Iran,C#,1
+Iran,CSS,2
+Iran,HTML,2
+Iran,Java,1
+Iran,JavaScript,1
+Iran,Matlab,1
+Iran,Python,1
+Iran,SQL,1
 Iraq,Matlab,1
 Iraq,Visual Basic 6,1
 Ireland,Bash/Shell,2
@@ -424,7 +393,6 @@ Israel,TypeScript,1
 Israel,VB.NET,1
 Israel,VBA,2
 Israel,Visual Basic 6,1
-Israel,NA,6
 Italy,Bash/Shell,5
 Italy,C,3
 Italy,C#,2
@@ -444,7 +412,6 @@ Italy,Scala,4
 Italy,SQL,12
 Italy,VBA,2
 Italy,Visual Basic 6,1
-Italy,NA,2
 Japan,Bash/Shell,2
 Japan,C,1
 Japan,C#,1
@@ -459,35 +426,28 @@ Japan,R,1
 Japan,SQL,1
 Japan,VB.NET,1
 Japan,VBA,1
-Japan,NA,1
 Jordan,C,1
 Jordan,C#,1
 Jordan,C++,1
 Jordan,HTML,1
 Jordan,Python,2
-Kazakhstan,NA,1
 Kenya,CSS,1
 Kenya,HTML,1
 Kenya,JavaScript,1
 Kenya,Python,1
 Kenya,R,1
-Kenya,NA,1
 Kuwait,C,1
 Kuwait,C++,1
 Kuwait,R,1
 Kuwait,SQL,1
 Kuwait,VBA,1
-Kuwait,NA,1
 Latvia,Python,1
-Latvia,NA,1
 Lebanon,SQL,1
-Lebanon,NA,1
 Lithuania,Python,1
 Lithuania,R,1
 Lithuania,SQL,2
 Lithuania,VB.NET,1
 Lithuania,VBA,1
-Lithuania,NA,2
 Luxembourg,Matlab,1
 Luxembourg,R,1
 Malaysia,Assembly,1
@@ -507,7 +467,6 @@ Malaysia,SQL,2
 Malaysia,Swift,1
 Malaysia,TypeScript,1
 Malaysia,VBA,1
-Malaysia,NA,2
 Maldives,Bash/Shell,1
 Maldives,C,1
 Maldives,C++,1
@@ -611,7 +570,6 @@ Netherlands,TypeScript,1
 Netherlands,VB.NET,1
 Netherlands,VBA,2
 Netherlands,Visual Basic 6,1
-Netherlands,NA,4
 New Zealand,Bash/Shell,3
 New Zealand,C,1
 New Zealand,C#,2
@@ -624,7 +582,6 @@ New Zealand,Python,6
 New Zealand,R,5
 New Zealand,SQL,7
 New Zealand,VBA,1
-New Zealand,NA,2
 Nigeria,Assembly,1
 Nigeria,Bash/Shell,1
 Nigeria,C,1
@@ -678,14 +635,6 @@ Norway,R,5
 Norway,Scala,1
 Norway,SQL,8
 Norway,VB.NET,1
-Norway,NA,2
-Other Country (Not Listed Above),Bash/Shell,1
-Other Country (Not Listed Above),CSS,1
-Other Country (Not Listed Above),HTML,1
-Other Country (Not Listed Above),JavaScript,1
-Other Country (Not Listed Above),Python,1
-Other Country (Not Listed Above),R,1
-Other Country (Not Listed Above),SQL,1
 Pakistan,Assembly,1
 Pakistan,Bash/Shell,1
 Pakistan,C,3
@@ -701,7 +650,6 @@ Pakistan,R,2
 Pakistan,Ruby,1
 Pakistan,SQL,2
 Pakistan,VBA,1
-Pakistan,NA,7
 Peru,Python,1
 Peru,R,1
 Peru,SQL,1
@@ -715,7 +663,6 @@ Philippines,Python,3
 Philippines,R,2
 Philippines,SQL,3
 Philippines,VBA,1
-Philippines,NA,2
 Poland,Assembly,2
 Poland,Bash/Shell,6
 Poland,C,2
@@ -737,7 +684,6 @@ Poland,Ruby,1
 Poland,Rust,1
 Poland,Scala,2
 Poland,SQL,7
-Poland,NA,2
 Portugal,Bash/Shell,2
 Portugal,C,3
 Portugal,C#,2
@@ -765,24 +711,22 @@ Romania,Perl,1
 Romania,Python,3
 Romania,R,2
 Romania,SQL,1
-Romania,NA,1
-Russian Federation,Bash/Shell,5
-Russian Federation,C,2
-Russian Federation,C++,6
-Russian Federation,CSS,3
-Russian Federation,Haskell,1
-Russian Federation,HTML,3
-Russian Federation,Java,2
-Russian Federation,Matlab,2
-Russian Federation,PHP,2
-Russian Federation,Python,10
-Russian Federation,R,3
-Russian Federation,Ruby,1
-Russian Federation,Scala,3
-Russian Federation,SQL,4
-Russian Federation,VB.NET,1
-Russian Federation,VBA,2
-Russian Federation,NA,6
+Russia,Bash/Shell,5
+Russia,C,2
+Russia,C++,6
+Russia,CSS,3
+Russia,Haskell,1
+Russia,HTML,3
+Russia,Java,2
+Russia,Matlab,2
+Russia,PHP,2
+Russia,Python,10
+Russia,R,3
+Russia,Ruby,1
+Russia,Scala,3
+Russia,SQL,4
+Russia,VB.NET,1
+Russia,VBA,2
 Saudi Arabia,Bash/Shell,1
 Saudi Arabia,C#,1
 Saudi Arabia,CSS,1
@@ -800,7 +744,6 @@ Serbia,JavaScript,1
 Serbia,PHP,1
 Serbia,Python,1
 Serbia,SQL,1
-Serbia,NA,1
 Singapore,Bash/Shell,4
 Singapore,C,1
 Singapore,C#,2
@@ -819,7 +762,6 @@ Singapore,SQL,5
 Singapore,TypeScript,1
 Singapore,VB.NET,1
 Singapore,VBA,1
-Singapore,NA,1
 Slovakia,Bash/Shell,1
 Slovakia,CSS,1
 Slovakia,Go,1
@@ -829,7 +771,6 @@ Slovakia,PHP,1
 Slovakia,Python,2
 Slovakia,SQL,1
 Slovakia,TypeScript,1
-Slovakia,NA,1
 Slovenia,C++,1
 Slovenia,Delphi/Object Pascal,1
 Slovenia,Python,1
@@ -843,7 +784,6 @@ South Africa,R,1
 South Africa,Scala,1
 South Africa,SQL,4
 South Africa,VBA,1
-South Africa,NA,1
 South Korea,CSS,1
 South Korea,HTML,1
 South Korea,Python,2
@@ -870,8 +810,6 @@ Spain,Swift,1
 Spain,VB.NET,1
 Spain,VBA,4
 Spain,Visual Basic 6,1
-Spain,NA,4
-Sudan,NA,1
 Sweden,Bash/Shell,2
 Sweden,C++,2
 Sweden,Delphi/Object Pascal,1
@@ -884,7 +822,6 @@ Sweden,R,6
 Sweden,Scala,1
 Sweden,SQL,5
 Sweden,Swift,1
-Sweden,NA,2
 Switzerland,Bash/Shell,4
 Switzerland,C#,1
 Switzerland,C++,1
@@ -898,7 +835,6 @@ Switzerland,Python,7
 Switzerland,R,3
 Switzerland,Scala,1
 Switzerland,SQL,5
-Switzerland,NA,4
 Taiwan,Bash/Shell,2
 Taiwan,C,1
 Taiwan,C++,2
@@ -913,15 +849,12 @@ Taiwan,SQL,1
 Taiwan,VB.NET,1
 Taiwan,VBA,1
 Taiwan,Visual Basic 6,1
-Taiwan,NA,1
 Thailand,C,1
 Thailand,C#,1
 Thailand,C++,1
 Thailand,HTML,1
 Thailand,Python,1
 Thailand,SQL,1
-Thailand,NA,1
-Tunisia,NA,2
 Turkey,Assembly,2
 Turkey,Bash/Shell,4
 Turkey,C,3
@@ -942,7 +875,6 @@ Turkey,Scala,1
 Turkey,SQL,6
 Turkey,VB.NET,1
 Turkey,VBA,1
-Turkey,NA,1
 Uganda,C,1
 Uganda,HTML,1
 Uganda,Java,2
@@ -960,7 +892,6 @@ Ukraine,PHP,4
 Ukraine,Python,1
 Ukraine,SQL,6
 Ukraine,VBA,4
-Ukraine,NA,2
 United Kingdom,Assembly,3
 United Kingdom,Bash/Shell,35
 United Kingdom,C,8
@@ -993,7 +924,6 @@ United Kingdom,TypeScript,3
 United Kingdom,VB.NET,5
 United Kingdom,VBA,18
 United Kingdom,Visual Basic 6,4
-United Kingdom,NA,13
 United Republic of Tanzania,C,1
 United Republic of Tanzania,C++,1
 United Republic of Tanzania,CSS,1
@@ -1002,66 +932,65 @@ United Republic of Tanzania,Java,1
 United Republic of Tanzania,JavaScript,1
 United Republic of Tanzania,SQL,1
 United Republic of Tanzania,Visual Basic 6,1
-United States,Assembly,12
-United States,Bash/Shell,163
-United States,C,40
-United States,C#,36
-United States,C++,57
-United States,Clojure,5
-United States,Cobol,5
-United States,CoffeeScript,6
-United States,CSS,101
-United States,Delphi/Object Pascal,1
-United States,Erlang,2
-United States,F#,1
-United States,Go,20
-United States,Groovy,5
-United States,Hack,1
-United States,Haskell,9
-United States,HTML,120
-United States,Java,87
-United States,JavaScript,90
-United States,Julia,11
-United States,Lua,4
-United States,Matlab,29
-United States,Objective-C,3
-United States,Ocaml,1
-United States,Perl,15
-United States,PHP,15
-United States,Python,268
-United States,R,190
-United States,Ruby,10
-United States,Rust,8
-United States,Scala,47
-United States,SQL,236
-United States,Swift,7
-United States,TypeScript,5
-United States,VB.NET,7
-United States,VBA,60
-United States,Visual Basic 6,7
-United States,NA,44
+United States of America,Assembly,12
+United States of America,Bash/Shell,163
+United States of America,C,40
+United States of America,C#,36
+United States of America,C++,57
+United States of America,Clojure,5
+United States of America,Cobol,5
+United States of America,CoffeeScript,6
+United States of America,CSS,101
+United States of America,Delphi/Object Pascal,1
+United States of America,Erlang,2
+United States of America,F#,1
+United States of America,Go,20
+United States of America,Groovy,5
+United States of America,Hack,1
+United States of America,Haskell,9
+United States of America,HTML,120
+United States of America,Java,87
+United States of America,JavaScript,90
+United States of America,Julia,11
+United States of America,Lua,4
+United States of America,Matlab,29
+United States of America,Objective-C,3
+United States of America,Ocaml,1
+United States of America,Perl,15
+United States of America,PHP,15
+United States of America,Python,268
+United States of America,R,190
+United States of America,Ruby,10
+United States of America,Rust,8
+United States of America,Scala,47
+United States of America,SQL,236
+United States of America,Swift,7
+United States of America,TypeScript,5
+United States of America,VB.NET,7
+United States of America,VBA,60
+United States of America,Visual Basic 6,7
 Uruguay,R,1
-"Venezuela, Bolivarian Republic of...",Assembly,1
-"Venezuela, Bolivarian Republic of...",C,1
-"Venezuela, Bolivarian Republic of...",C#,1
-"Venezuela, Bolivarian Republic of...",C++,1
-"Venezuela, Bolivarian Republic of...",CSS,1
-"Venezuela, Bolivarian Republic of...",HTML,1
-"Venezuela, Bolivarian Republic of...",JavaScript,1
-"Venezuela, Bolivarian Republic of...",Matlab,1
-"Venezuela, Bolivarian Republic of...",Python,1
-"Venezuela, Bolivarian Republic of...",R,1
-"Venezuela, Bolivarian Republic of...",SQL,1
-"Venezuela, Bolivarian Republic of...",VBA,1
-Viet Nam,Bash/Shell,1
-Viet Nam,C,2
-Viet Nam,C#,1
-Viet Nam,C++,1
-Viet Nam,CSS,3
-Viet Nam,Go,1
-Viet Nam,HTML,3
-Viet Nam,Java,3
-Viet Nam,JavaScript,3
-Viet Nam,Python,3
-Viet Nam,R,1
-Viet Nam,Ruby,1
+Venezuela,Assembly,1
+Venezuela,C,1
+Venezuela,C#,1
+Venezuela,C++,1
+Venezuela,CSS,1
+Venezuela,HTML,1
+Venezuela,JavaScript,1
+Venezuela,Matlab,1
+Venezuela,Python,1
+Venezuela,R,1
+Venezuela,SQL,1
+Venezuela,VBA,1
+Vietnam,Bash/Shell,1
+Vietnam,C,2
+Vietnam,C#,1
+Vietnam,C++,1
+Vietnam,CSS,3
+Vietnam,Go,1
+Vietnam,HTML,3
+Vietnam,Java,3
+Vietnam,JavaScript,3
+Vietnam,Python,3
+Vietnam,R,1
+Vietnam,Ruby,1
