@@ -1,0 +1,586 @@
+Country,DatabaseWorkedWith,Count
+Albania,IBM Db2,1
+Albania,MySQL,1
+Albania,PostgreSQL,1
+Albania,SQL Server,1
+Algeria,SQL Server,1
+Andorra,Cassandra,1
+Argentina,Apache Hive,1
+Argentina,MongoDB,1
+Argentina,PostgreSQL,2
+Australia,Amazon Redshift,2
+Australia,Apache Hive,4
+Australia,Cassandra,2
+Australia,Elasticsearch,2
+Australia,Google BigQuery,2
+Australia,Google Cloud Storage,2
+Australia,IBM Db2,1
+Australia,MariaDB,1
+Australia,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Australia,MongoDB,4
+Australia,MySQL,11
+Australia,Neo4j,1
+Australia,Oracle,4
+Australia,PostgreSQL,9
+Australia,Redis,1
+Australia,SQL Server,11
+Australia,SQLite,9
+Austria,Apache Hive,1
+Austria,Cassandra,1
+Austria,Google Cloud Storage,1
+Austria,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Austria,MySQL,5
+Austria,Oracle,2
+Austria,PostgreSQL,3
+Austria,SQL Server,5
+Austria,SQLite,1
+Bangladesh,SQL Server,1
+Belgium,Amazon DynamoDB,2
+Belgium,Amazon Redshift,1
+Belgium,Apache HBase,2
+Belgium,Elasticsearch,1
+Belgium,Google BigQuery,1
+Belgium,Google Cloud Storage,1
+Belgium,MariaDB,1
+Belgium,MySQL,3
+Belgium,Oracle,2
+Belgium,PostgreSQL,1
+Belgium,SQL Server,5
+Belgium,SQLite,1
+Brazil,Amazon DynamoDB,1
+Brazil,Amazon RDS/Aurora,1
+Brazil,Amazon Redshift,2
+Brazil,Cassandra,1
+Brazil,Google BigQuery,1
+Brazil,Google Cloud Storage,1
+Brazil,MongoDB,4
+Brazil,MySQL,5
+Brazil,Neo4j,3
+Brazil,Oracle,1
+Brazil,PostgreSQL,6
+Brazil,SQL Server,2
+Bulgaria,MySQL,1
+Bulgaria,SQL Server,1
+Canada,Amazon DynamoDB,1
+Canada,Amazon RDS/Aurora,3
+Canada,Amazon Redshift,7
+Canada,Apache HBase,3
+Canada,Apache Hive,6
+Canada,Cassandra,2
+Canada,Elasticsearch,4
+Canada,Google BigQuery,2
+Canada,Google Cloud Storage,2
+Canada,IBM Db2,1
+Canada,MariaDB,3
+Canada,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",5
+Canada,MongoDB,6
+Canada,MySQL,13
+Canada,Neo4j,2
+Canada,Oracle,3
+Canada,PostgreSQL,14
+Canada,Redis,3
+Canada,SQL Server,16
+Canada,SQLite,5
+Chile,IBM Db2,1
+Chile,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Chile,MongoDB,1
+Chile,MySQL,1
+Chile,PostgreSQL,1
+Chile,SQL Server,2
+China,Amazon DynamoDB,1
+China,Amazon RDS/Aurora,1
+China,Apache HBase,2
+China,Apache Hive,6
+China,Cassandra,1
+China,Elasticsearch,2
+China,Google BigQuery,1
+China,MariaDB,1
+China,MongoDB,2
+China,MySQL,9
+China,Neo4j,1
+China,Oracle,1
+China,PostgreSQL,2
+China,Redis,2
+China,SQL Server,3
+China,SQLite,1
+Colombia,Google Cloud Storage,1
+Colombia,MongoDB,3
+Colombia,PostgreSQL,2
+Croatia,MySQL,1
+Cyprus,Oracle,1
+Czech Republic,Elasticsearch,1
+Czech Republic,MariaDB,2
+Czech Republic,MongoDB,1
+Czech Republic,Oracle,2
+Czech Republic,PostgreSQL,2
+Czech Republic,SQLite,1
+Denmark,IBM Db2,1
+Denmark,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Denmark,MySQL,3
+Denmark,PostgreSQL,1
+Denmark,Redis,1
+Denmark,SQL Server,2
+Denmark,SQLite,1
+Egypt,IBM Db2,1
+Egypt,Oracle,1
+Egypt,SQL Server,1
+Egypt,SQLite,1
+Estonia,MySQL,1
+Finland,Elasticsearch,1
+Finland,IBM Db2,1
+Finland,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Finland,MySQL,1
+Finland,Neo4j,1
+Finland,PostgreSQL,2
+Finland,Redis,1
+Finland,SQL Server,2
+Finland,SQLite,2
+France,Amazon DynamoDB,3
+France,Amazon RDS/Aurora,3
+France,Amazon Redshift,2
+France,Apache HBase,2
+France,Apache Hive,6
+France,Cassandra,1
+France,Elasticsearch,9
+France,Google BigQuery,2
+France,Google Cloud Storage,1
+France,MariaDB,5
+France,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+France,MongoDB,9
+France,MySQL,15
+France,Neo4j,1
+France,Oracle,1
+France,PostgreSQL,9
+France,Redis,7
+France,SQL Server,7
+France,SQLite,2
+Germany,Amazon DynamoDB,1
+Germany,Amazon RDS/Aurora,1
+Germany,Amazon Redshift,4
+Germany,Apache HBase,1
+Germany,Apache Hive,6
+Germany,Cassandra,2
+Germany,Elasticsearch,6
+Germany,Google BigQuery,3
+Germany,Google Cloud Storage,2
+Germany,MariaDB,8
+Germany,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Germany,MongoDB,6
+Germany,MySQL,22
+Germany,Oracle,3
+Germany,PostgreSQL,15
+Germany,Redis,5
+Germany,SQL Server,9
+Germany,SQLite,8
+Ghana,SQL Server,1
+Greece,Apache Hive,1
+Greece,PostgreSQL,1
+Greece,Redis,1
+Guatemala,MariaDB,1
+Guatemala,MySQL,1
+Guatemala,SQL Server,1
+Hong Kong (S.A.R.),Apache Hive,1
+Hong Kong (S.A.R.),MariaDB,1
+Hong Kong (S.A.R.),MongoDB,1
+Hong Kong (S.A.R.),MySQL,3
+Hong Kong (S.A.R.),PostgreSQL,1
+Hong Kong (S.A.R.),Redis,1
+Hong Kong (S.A.R.),SQL Server,1
+Hong Kong (S.A.R.),SQLite,1
+Hungary,Apache HBase,1
+Hungary,Apache Hive,1
+Hungary,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Hungary,MySQL,3
+Hungary,PostgreSQL,3
+Hungary,Redis,1
+Hungary,SQL Server,1
+Hungary,SQLite,2
+India,Amazon DynamoDB,3
+India,Amazon RDS/Aurora,3
+India,Amazon Redshift,7
+India,Apache HBase,13
+India,Apache Hive,18
+India,Cassandra,14
+India,Elasticsearch,10
+India,Google BigQuery,3
+India,Google Cloud Storage,9
+India,IBM Db2,3
+India,MariaDB,4
+India,Memcached,3
+India,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",4
+India,MongoDB,34
+India,MySQL,63
+India,Neo4j,3
+India,Oracle,11
+India,PostgreSQL,24
+India,Redis,11
+India,SQL Server,35
+India,SQLite,16
+Indonesia,Cassandra,1
+Indonesia,MongoDB,1
+Indonesia,MySQL,1
+"Iran, Islamic Republic of...",MySQL,1
+"Iran, Islamic Republic of...",SQL Server,1
+Iraq,MySQL,1
+Ireland,Amazon Redshift,1
+Ireland,Apache Hive,2
+Ireland,Elasticsearch,1
+Ireland,Google Cloud Storage,2
+Ireland,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Ireland,MongoDB,2
+Ireland,MySQL,2
+Ireland,Neo4j,1
+Ireland,PostgreSQL,2
+Ireland,SQL Server,1
+Ireland,SQLite,1
+Israel,Amazon DynamoDB,1
+Israel,Amazon RDS/Aurora,1
+Israel,Amazon Redshift,3
+Israel,Apache Hive,2
+Israel,Cassandra,1
+Israel,Elasticsearch,2
+Israel,Google BigQuery,3
+Israel,Google Cloud Storage,1
+Israel,IBM Db2,1
+Israel,MariaDB,1
+Israel,MongoDB,3
+Israel,MySQL,4
+Israel,Neo4j,1
+Israel,PostgreSQL,5
+Israel,Redis,2
+Israel,SQL Server,1
+Israel,SQLite,2
+Italy,Amazon Redshift,1
+Italy,Apache HBase,1
+Italy,Apache Hive,3
+Italy,Elasticsearch,1
+Italy,MongoDB,3
+Italy,MySQL,8
+Italy,Oracle,4
+Italy,PostgreSQL,6
+Italy,SQL Server,7
+Italy,SQLite,2
+Japan,SQL Server,1
+Jordan,MySQL,2
+Jordan,SQLite,1
+Kenya,PostgreSQL,1
+Kuwait,SQL Server,1
+Lebanon,MySQL,1
+Lebanon,SQL Server,1
+Lithuania,MariaDB,1
+Lithuania,MySQL,1
+Lithuania,Oracle,2
+Lithuania,SQL Server,1
+Malaysia,Amazon Redshift,1
+Malaysia,Google Cloud Storage,2
+Malaysia,Memcached,1
+Malaysia,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Malaysia,MySQL,2
+Malaysia,Neo4j,1
+Malaysia,PostgreSQL,1
+Malaysia,SQL Server,2
+Malaysia,SQLite,1
+Maldives,MySQL,1
+Maldives,Oracle,1
+Maldives,PostgreSQL,1
+Maldives,SQL Server,1
+Maldives,SQLite,1
+Malta,MongoDB,1
+Malta,Neo4j,1
+Malta,SQL Server,1
+Mauritius,MySQL,1
+Mauritius,Oracle,1
+Mauritius,SQL Server,1
+Mexico,Amazon DynamoDB,1
+Mexico,Amazon Redshift,1
+Mexico,Apache HBase,2
+Mexico,Apache Hive,1
+Mexico,Elasticsearch,2
+Mexico,Google Cloud Storage,1
+Mexico,MariaDB,1
+Mexico,MongoDB,2
+Mexico,MySQL,6
+Mexico,Oracle,2
+Mexico,PostgreSQL,5
+Mexico,SQL Server,4
+Mexico,SQLite,3
+Morocco,Apache HBase,2
+Morocco,Apache Hive,1
+Morocco,Cassandra,1
+Morocco,MongoDB,2
+Morocco,MySQL,2
+Morocco,Oracle,1
+Morocco,PostgreSQL,3
+Morocco,Redis,1
+Morocco,SQL Server,2
+Morocco,SQLite,1
+Mozambique,Apache Hive,1
+Mozambique,MongoDB,1
+Mozambique,MySQL,1
+Mozambique,SQL Server,1
+Nepal,MongoDB,1
+Nepal,MySQL,2
+Nepal,SQL Server,1
+Nepal,SQLite,1
+Netherlands,Amazon DynamoDB,1
+Netherlands,Amazon Redshift,2
+Netherlands,Apache Hive,2
+Netherlands,IBM Db2,1
+Netherlands,MariaDB,1
+Netherlands,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Netherlands,MongoDB,1
+Netherlands,MySQL,5
+Netherlands,Oracle,1
+Netherlands,PostgreSQL,5
+Netherlands,Redis,1
+Netherlands,SQL Server,6
+Netherlands,SQLite,2
+New Zealand,IBM Db2,1
+New Zealand,MariaDB,1
+New Zealand,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+New Zealand,MySQL,2
+New Zealand,Oracle,1
+New Zealand,PostgreSQL,1
+New Zealand,SQL Server,4
+New Zealand,SQLite,1
+Nigeria,Amazon DynamoDB,1
+Nigeria,Amazon RDS/Aurora,1
+Nigeria,Amazon Redshift,1
+Nigeria,Apache HBase,1
+Nigeria,Apache Hive,1
+Nigeria,Cassandra,1
+Nigeria,Elasticsearch,1
+Nigeria,Google BigQuery,1
+Nigeria,Google Cloud Storage,1
+Nigeria,IBM Db2,1
+Nigeria,MariaDB,1
+Nigeria,Memcached,1
+Nigeria,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Nigeria,MongoDB,1
+Nigeria,MySQL,2
+Nigeria,Neo4j,1
+Nigeria,PostgreSQL,1
+Nigeria,Redis,1
+Nigeria,SQL Server,1
+Norway,Amazon Redshift,1
+Norway,Cassandra,1
+Norway,Elasticsearch,1
+Norway,IBM Db2,1
+Norway,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",2
+Norway,MySQL,3
+Norway,Neo4j,1
+Norway,Oracle,1
+Norway,PostgreSQL,2
+Norway,SQL Server,6
+Norway,SQLite,1
+Other Country (Not Listed Above),Apache Hive,1
+Other Country (Not Listed Above),MongoDB,1
+Other Country (Not Listed Above),Oracle,1
+Other Country (Not Listed Above),PostgreSQL,1
+Other Country (Not Listed Above),SQL Server,1
+Pakistan,Apache Hive,1
+Pakistan,Cassandra,1
+Pakistan,Oracle,1
+Pakistan,PostgreSQL,1
+Pakistan,Redis,1
+Pakistan,SQL Server,2
+Pakistan,SQLite,1
+Peru,MySQL,1
+Peru,Oracle,1
+Peru,SQL Server,1
+Philippines,Amazon RDS/Aurora,1
+Philippines,Amazon Redshift,1
+Philippines,Apache HBase,1
+Philippines,Apache Hive,1
+Philippines,MongoDB,1
+Philippines,MySQL,2
+Philippines,PostgreSQL,2
+Philippines,SQL Server,3
+Poland,Amazon RDS/Aurora,1
+Poland,Apache HBase,2
+Poland,Apache Hive,2
+Poland,Cassandra,1
+Poland,Elasticsearch,2
+Poland,Google BigQuery,2
+Poland,Google Cloud Storage,1
+Poland,MariaDB,1
+Poland,MongoDB,4
+Poland,MySQL,4
+Poland,PostgreSQL,2
+Poland,SQL Server,1
+Poland,SQLite,1
+Portugal,Amazon Redshift,1
+Portugal,MongoDB,3
+Portugal,MySQL,2
+Portugal,PostgreSQL,3
+Portugal,Redis,1
+Portugal,SQL Server,2
+Romania,IBM Db2,1
+Romania,MariaDB,1
+Romania,MongoDB,1
+Romania,MySQL,2
+Romania,PostgreSQL,2
+Romania,SQL Server,3
+Romania,SQLite,1
+Russian Federation,Amazon DynamoDB,1
+Russian Federation,Amazon Redshift,1
+Russian Federation,Apache HBase,1
+Russian Federation,Apache Hive,3
+Russian Federation,Elasticsearch,2
+Russian Federation,IBM Db2,1
+Russian Federation,MongoDB,1
+Russian Federation,MySQL,5
+Russian Federation,Oracle,1
+Russian Federation,PostgreSQL,5
+Russian Federation,Redis,1
+Russian Federation,SQL Server,4
+Russian Federation,SQLite,1
+Saudi Arabia,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Saudi Arabia,MongoDB,1
+Saudi Arabia,MySQL,1
+Saudi Arabia,Oracle,1
+Saudi Arabia,Redis,1
+Saudi Arabia,SQL Server,2
+Serbia,Amazon Redshift,1
+Serbia,MariaDB,1
+Serbia,MySQL,1
+Serbia,PostgreSQL,1
+Serbia,Redis,1
+Singapore,Amazon DynamoDB,1
+Singapore,Amazon RDS/Aurora,1
+Singapore,Apache HBase,1
+Singapore,Apache Hive,3
+Singapore,Cassandra,1
+Singapore,Google Cloud Storage,1
+Singapore,MongoDB,1
+Singapore,MySQL,4
+Singapore,Oracle,1
+Singapore,PostgreSQL,1
+Singapore,SQL Server,2
+Singapore,SQLite,1
+Slovakia,Elasticsearch,1
+Slovakia,Google BigQuery,1
+Slovakia,Google Cloud Storage,1
+Slovakia,MariaDB,1
+Slovakia,MongoDB,1
+Slovakia,MySQL,1
+Slovakia,Oracle,1
+Slovakia,PostgreSQL,1
+Slovakia,Redis,1
+Slovakia,SQLite,1
+Slovenia,MySQL,1
+South Africa,Apache HBase,1
+South Africa,Apache Hive,2
+South Africa,PostgreSQL,1
+South Africa,SQL Server,2
+South Korea,MySQL,2
+Spain,Amazon DynamoDB,2
+Spain,Amazon RDS/Aurora,2
+Spain,Amazon Redshift,4
+Spain,Apache HBase,1
+Spain,Apache Hive,3
+Spain,Elasticsearch,4
+Spain,Google Cloud Storage,1
+Spain,IBM Db2,1
+Spain,MariaDB,2
+Spain,Memcached,3
+Spain,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",3
+Spain,MongoDB,6
+Spain,MySQL,11
+Spain,Neo4j,2
+Spain,Oracle,1
+Spain,PostgreSQL,14
+Spain,Redis,4
+Spain,SQL Server,2
+Spain,SQLite,3
+Sweden,Apache Hive,2
+Sweden,Cassandra,1
+Sweden,Elasticsearch,2
+Sweden,Google BigQuery,2
+Sweden,Google Cloud Storage,1
+Sweden,MariaDB,1
+Sweden,MySQL,3
+Sweden,Oracle,1
+Sweden,PostgreSQL,2
+Sweden,SQL Server,4
+Switzerland,Google BigQuery,1
+Switzerland,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Switzerland,MongoDB,1
+Switzerland,MySQL,2
+Switzerland,PostgreSQL,2
+Switzerland,SQL Server,2
+Thailand,MySQL,1
+Thailand,SQLite,1
+Turkey,Apache HBase,1
+Turkey,Apache Hive,2
+Turkey,Cassandra,2
+Turkey,Elasticsearch,1
+Turkey,Google BigQuery,1
+Turkey,Google Cloud Storage,1
+Turkey,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",1
+Turkey,MongoDB,1
+Turkey,MySQL,6
+Turkey,Oracle,3
+Turkey,PostgreSQL,1
+Turkey,Redis,1
+Turkey,SQL Server,6
+Turkey,SQLite,1
+Uganda,Google Cloud Storage,1
+Uganda,MySQL,1
+Uganda,Oracle,1
+Ukraine,Google BigQuery,1
+Ukraine,MySQL,3
+Ukraine,PostgreSQL,1
+Ukraine,SQL Server,3
+Ukraine,SQLite,1
+United Kingdom,Amazon DynamoDB,4
+United Kingdom,Amazon RDS/Aurora,5
+United Kingdom,Amazon Redshift,11
+United Kingdom,Apache Hive,11
+United Kingdom,Cassandra,2
+United Kingdom,Elasticsearch,12
+United Kingdom,Google BigQuery,4
+United Kingdom,Google Cloud Storage,3
+United Kingdom,IBM Db2,3
+United Kingdom,MariaDB,3
+United Kingdom,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",6
+United Kingdom,MongoDB,13
+United Kingdom,MySQL,43
+United Kingdom,Neo4j,6
+United Kingdom,Oracle,11
+United Kingdom,PostgreSQL,22
+United Kingdom,Redis,3
+United Kingdom,SQL Server,30
+United Kingdom,SQLite,11
+United Republic of Tanzania,MySQL,1
+United Republic of Tanzania,SQL Server,1
+United States,Amazon DynamoDB,15
+United States,Amazon RDS/Aurora,17
+United States,Amazon Redshift,41
+United States,Apache HBase,13
+United States,Apache Hive,51
+United States,Cassandra,8
+United States,Elasticsearch,27
+United States,Google BigQuery,25
+United States,Google Cloud Storage,25
+United States,IBM Db2,15
+United States,MariaDB,11
+United States,"Microsoft Azure (Tables, CosmosDB, SQL, etc)",25
+United States,MongoDB,50
+United States,MySQL,111
+United States,Neo4j,12
+United States,Oracle,25
+United States,PostgreSQL,108
+United States,Redis,26
+United States,SQL Server,140
+United States,SQLite,38
+"Venezuela, Bolivarian Republic of...",MongoDB,1
+"Venezuela, Bolivarian Republic of...",MySQL,1
+"Venezuela, Bolivarian Republic of...",PostgreSQL,1
+Viet Nam,Elasticsearch,2
+Viet Nam,MongoDB,2
+Viet Nam,MySQL,2
+Viet Nam,PostgreSQL,2
+Viet Nam,Redis,1
+Viet Nam,SQL Server,2
+Viet Nam,SQLite,1

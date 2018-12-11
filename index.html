@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+	<div id="container" style="position: relative; width: 1000px; height: 800px;"></div>
+
+	<div class="graph">
+		<div>
+			
+		</div>
+	</div>
+
+	<div id="bar_charts">
+		<div id="bar_gender">
+		</div>
+
+		<div id="bar_database">
+			
+		</div>
+
+		<div id="bar_language">
+			
+		</div>
+
+		<div id="bar_platform">
+			
+		</div>
+
+	</div>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+	<script src="/datamaps.world.min.js"></script>
+	<script type="text/javascript">
+		var map = new Datamap({element: document.getElementById('container'),
+		    	fills: {
+		            defaultFill: 'rgb(46,88,148)' // Any hex, color name or rgb/rgba value
+		        },
+		    geographyConfig: {
+		        hideAntarctica: true,
+		        borderWidth: 1,
+		        borderOpacity: 1,
+		        borderColor: '#FDFDFD',
+		        popupTemplate: function(geography, data) { //this function should just return a string
+		          return '<div class="hoverinfo"><strong>' + geography.properties.name + '</strong></div>';
+		        },
+		        popupOnHover: true, //disable the popup while hovering
+		        highlightOnHover: true,
+		        highlightFillColor: '#87FF2A',
+		        highlightBorderColor: 'rgba(230, 15, 140, 0.2)',
+		        highlightBorderWidth: 2,
+		        highlightBorderOpacity: 1
+			},
+			done: function(datamap) {
+            datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
+                setup_barcharts(geography.properties.name);
+            });
+        }
+    });
+	</script>
+
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script type="text/javascript" src="index.js"></script>
+
+
+</body>
+</html>
+

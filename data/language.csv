@@ -1,0 +1,1067 @@
+Country,LanguageWorkedWith,Count
+Albania,C#,1
+Albania,CSS,1
+Albania,Groovy,1
+Albania,HTML,1
+Albania,JavaScript,1
+Albania,PHP,1
+Albania,SQL,1
+Algeria,C#,1
+Algeria,Delphi/Object Pascal,1
+Algeria,SQL,1
+Algeria,NA,1
+Andorra,Assembly,1
+Argentina,Bash/Shell,1
+Argentina,C++,1
+Argentina,HTML,1
+Argentina,Python,2
+Argentina,R,1
+Argentina,SQL,1
+Australia,Bash/Shell,12
+Australia,C,6
+Australia,C#,3
+Australia,C++,7
+Australia,Clojure,2
+Australia,CoffeeScript,1
+Australia,CSS,9
+Australia,F#,1
+Australia,Go,3
+Australia,Groovy,3
+Australia,HTML,10
+Australia,Java,7
+Australia,JavaScript,8
+Australia,Matlab,4
+Australia,Objective-C,1
+Australia,Perl,2
+Australia,PHP,2
+Australia,Python,20
+Australia,R,22
+Australia,Ruby,2
+Australia,Scala,3
+Australia,SQL,23
+Australia,Swift,1
+Australia,TypeScript,3
+Australia,VB.NET,1
+Australia,VBA,7
+Australia,Visual Basic 6,1
+Australia,NA,5
+Austria,Bash/Shell,2
+Austria,C,1
+Austria,C#,1
+Austria,C++,3
+Austria,CSS,3
+Austria,Groovy,1
+Austria,HTML,3
+Austria,Java,1
+Austria,JavaScript,3
+Austria,Matlab,3
+Austria,Perl,1
+Austria,PHP,1
+Austria,Python,5
+Austria,R,3
+Austria,Ruby,1
+Austria,Rust,1
+Austria,Scala,1
+Austria,SQL,5
+Austria,VBA,1
+Bangladesh,C#,1
+Bangladesh,R,1
+Bangladesh,SQL,1
+Bangladesh,NA,1
+Belarus,NA,1
+Belgium,Assembly,2
+Belgium,Bash/Shell,7
+Belgium,C,3
+Belgium,C#,1
+Belgium,C++,5
+Belgium,CSS,8
+Belgium,HTML,8
+Belgium,Java,5
+Belgium,JavaScript,7
+Belgium,Matlab,1
+Belgium,PHP,1
+Belgium,Python,9
+Belgium,R,5
+Belgium,Ruby,1
+Belgium,SQL,6
+Belgium,VBA,2
+Belgium,NA,1
+Brazil,Bash/Shell,7
+Brazil,C,3
+Brazil,C#,1
+Brazil,C++,2
+Brazil,Clojure,1
+Brazil,CSS,3
+Brazil,HTML,6
+Brazil,Java,3
+Brazil,JavaScript,3
+Brazil,Matlab,1
+Brazil,PHP,1
+Brazil,Python,13
+Brazil,R,8
+Brazil,Scala,2
+Brazil,SQL,12
+Brazil,VBA,1
+Brazil,NA,2
+Bulgaria,Cobol,1
+Bulgaria,VB.NET,1
+Bulgaria,VBA,1
+Bulgaria,Visual Basic 6,1
+Canada,Assembly,4
+Canada,Bash/Shell,16
+Canada,C,5
+Canada,C#,5
+Canada,C++,11
+Canada,Clojure,1
+Canada,CSS,10
+Canada,F#,1
+Canada,Go,2
+Canada,Groovy,2
+Canada,HTML,12
+Canada,Java,13
+Canada,JavaScript,11
+Canada,Julia,1
+Canada,Lua,3
+Canada,Matlab,6
+Canada,Perl,2
+Canada,PHP,3
+Canada,Python,29
+Canada,R,14
+Canada,Ruby,3
+Canada,Rust,1
+Canada,Scala,5
+Canada,SQL,27
+Canada,Swift,1
+Canada,VB.NET,1
+Canada,VBA,4
+Canada,Visual Basic 6,1
+Canada,NA,12
+Chile,Bash/Shell,1
+Chile,Matlab,1
+Chile,Python,3
+Chile,R,2
+Chile,SQL,4
+Chile,NA,1
+China,Bash/Shell,4
+China,C,6
+China,C#,1
+China,C++,2
+China,Cobol,1
+China,CSS,1
+China,Go,1
+China,HTML,2
+China,Java,4
+China,JavaScript,1
+China,Matlab,1
+China,Perl,1
+China,Python,13
+China,R,6
+China,Scala,5
+China,SQL,5
+China,Visual Basic 6,1
+China,NA,8
+Colombia,CSS,2
+Colombia,Erlang,1
+Colombia,HTML,2
+Colombia,Java,1
+Colombia,JavaScript,1
+Colombia,Matlab,1
+Colombia,Python,3
+Colombia,R,2
+Colombia,VBA,1
+Colombia,NA,1
+Croatia,C,1
+Croatia,C++,1
+Croatia,Matlab,1
+Croatia,Python,1
+Croatia,SQL,1
+Cyprus,Python,1
+Cyprus,SQL,1
+Czech Republic,Assembly,2
+Czech Republic,Bash/Shell,5
+Czech Republic,C,3
+Czech Republic,C#,1
+Czech Republic,C++,2
+Czech Republic,Clojure,1
+Czech Republic,CSS,3
+Czech Republic,Go,1
+Czech Republic,HTML,4
+Czech Republic,Java,3
+Czech Republic,JavaScript,3
+Czech Republic,Julia,2
+Czech Republic,Lua,2
+Czech Republic,PHP,2
+Czech Republic,Python,2
+Czech Republic,R,5
+Czech Republic,Rust,2
+Czech Republic,SQL,5
+Denmark,Bash/Shell,3
+Denmark,C,1
+Denmark,C#,3
+Denmark,C++,2
+Denmark,CSS,2
+Denmark,HTML,3
+Denmark,Java,1
+Denmark,JavaScript,2
+Denmark,Matlab,2
+Denmark,Python,3
+Denmark,R,2
+Denmark,SQL,2
+Denmark,VBA,1
+Denmark,NA,2
+Egypt,C++,1
+Egypt,CSS,1
+Egypt,Haskell,1
+Egypt,HTML,1
+Egypt,JavaScript,1
+Egypt,Python,2
+Egypt,R,1
+Egypt,Rust,1
+Egypt,SQL,1
+El Salvador,NA,1
+Estonia,C++,1
+Estonia,CSS,1
+Estonia,HTML,1
+Estonia,JavaScript,1
+Estonia,PHP,1
+Estonia,Python,1
+Estonia,R,1
+Estonia,Swift,1
+Finland,Bash/Shell,4
+Finland,C,1
+Finland,C#,1
+Finland,C++,1
+Finland,CSS,2
+Finland,HTML,2
+Finland,JavaScript,1
+Finland,Lua,1
+Finland,Matlab,1
+Finland,Perl,1
+Finland,Python,6
+Finland,R,2
+Finland,SQL,3
+Finland,VBA,1
+Finland,NA,2
+France,Bash/Shell,18
+France,C,13
+France,C#,6
+France,C++,17
+France,CSS,14
+France,Go,1
+France,Groovy,1
+France,HTML,14
+France,Java,14
+France,JavaScript,12
+France,Julia,1
+France,Matlab,6
+France,Objective-C,1
+France,Ocaml,1
+France,Perl,1
+France,PHP,5
+France,Python,37
+France,R,25
+France,Ruby,2
+France,Rust,1
+France,Scala,7
+France,SQL,19
+France,VB.NET,2
+France,VBA,2
+France,Visual Basic 6,1
+France,NA,15
+Gabon,NA,1
+Germany,Assembly,3
+Germany,Bash/Shell,31
+Germany,C,18
+Germany,C#,9
+Germany,C++,26
+Germany,Cobol,1
+Germany,CoffeeScript,2
+Germany,CSS,22
+Germany,Go,6
+Germany,Groovy,2
+Germany,Haskell,4
+Germany,HTML,23
+Germany,Java,30
+Germany,JavaScript,23
+Germany,Julia,1
+Germany,Kotlin,1
+Germany,Lua,2
+Germany,Matlab,17
+Germany,Objective-C,1
+Germany,Perl,3
+Germany,PHP,7
+Germany,Python,57
+Germany,R,38
+Germany,Ruby,3
+Germany,Rust,2
+Germany,Scala,12
+Germany,SQL,28
+Germany,Swift,2
+Germany,TypeScript,4
+Germany,VB.NET,1
+Germany,VBA,9
+Germany,NA,15
+Ghana,R,1
+Ghana,NA,1
+Greece,Java,1
+Greece,Python,3
+Greece,R,2
+Greece,SQL,1
+Greece,VBA,1
+Guatemala,CSS,1
+Guatemala,HTML,1
+Guatemala,JavaScript,1
+Guatemala,PHP,1
+Guatemala,SQL,1
+Haiti,NA,1
+Hong Kong (S.A.R.),Bash/Shell,2
+Hong Kong (S.A.R.),C#,1
+Hong Kong (S.A.R.),CSS,1
+Hong Kong (S.A.R.),HTML,3
+Hong Kong (S.A.R.),Java,2
+Hong Kong (S.A.R.),JavaScript,3
+Hong Kong (S.A.R.),Python,6
+Hong Kong (S.A.R.),R,3
+Hong Kong (S.A.R.),Scala,2
+Hong Kong (S.A.R.),SQL,3
+Hong Kong (S.A.R.),VBA,1
+Hungary,Bash/Shell,2
+Hungary,C++,2
+Hungary,CSS,2
+Hungary,HTML,2
+Hungary,Java,1
+Hungary,JavaScript,2
+Hungary,Kotlin,1
+Hungary,Objective-C,1
+Hungary,PHP,2
+Hungary,Python,3
+Hungary,R,2
+Hungary,SQL,2
+Hungary,VBA,1
+Hungary,NA,1
+India,Assembly,9
+India,Bash/Shell,27
+India,C,36
+India,C#,8
+India,C++,30
+India,Cobol,1
+India,CoffeeScript,1
+India,CSS,41
+India,Delphi/Object Pascal,1
+India,Groovy,1
+India,Haskell,1
+India,HTML,42
+India,Java,49
+India,JavaScript,40
+India,Julia,2
+India,Kotlin,1
+India,Lua,1
+India,Matlab,23
+India,Objective-C,2
+India,Ocaml,1
+India,Perl,6
+India,PHP,19
+India,Python,77
+India,R,40
+India,Ruby,6
+India,Rust,2
+India,Scala,17
+India,SQL,53
+India,Swift,2
+India,TypeScript,1
+India,VB.NET,2
+India,VBA,9
+India,Visual Basic 6,2
+India,NA,41
+Indonesia,Julia,1
+Indonesia,Lua,1
+Indonesia,Matlab,2
+Indonesia,Python,2
+Indonesia,R,1
+Indonesia,Scala,1
+Indonesia,SQL,1
+"Iran, Islamic Republic of...",C,1
+"Iran, Islamic Republic of...",C#,1
+"Iran, Islamic Republic of...",CSS,2
+"Iran, Islamic Republic of...",HTML,2
+"Iran, Islamic Republic of...",Java,1
+"Iran, Islamic Republic of...",JavaScript,1
+"Iran, Islamic Republic of...",Matlab,1
+"Iran, Islamic Republic of...",Python,1
+"Iran, Islamic Republic of...",SQL,1
+"Iran, Islamic Republic of...",NA,2
+Iraq,Matlab,1
+Iraq,Visual Basic 6,1
+Ireland,Bash/Shell,2
+Ireland,CSS,3
+Ireland,HTML,3
+Ireland,Java,2
+Ireland,JavaScript,5
+Ireland,Julia,1
+Ireland,Matlab,2
+Ireland,Python,6
+Ireland,R,3
+Ireland,Scala,1
+Ireland,SQL,4
+Ireland,VBA,1
+Israel,Bash/Shell,8
+Israel,C,1
+Israel,C#,1
+Israel,C++,3
+Israel,CSS,3
+Israel,Go,1
+Israel,Haskell,1
+Israel,HTML,4
+Israel,Java,4
+Israel,JavaScript,2
+Israel,Matlab,4
+Israel,PHP,2
+Israel,Python,12
+Israel,R,5
+Israel,Scala,3
+Israel,SQL,8
+Israel,TypeScript,1
+Israel,VB.NET,1
+Israel,VBA,2
+Israel,Visual Basic 6,1
+Israel,NA,6
+Italy,Bash/Shell,5
+Italy,C,3
+Italy,C#,2
+Italy,C++,3
+Italy,CSS,6
+Italy,Groovy,1
+Italy,HTML,7
+Italy,Java,5
+Italy,JavaScript,7
+Italy,Matlab,4
+Italy,Objective-C,1
+Italy,Perl,1
+Italy,PHP,4
+Italy,Python,10
+Italy,R,6
+Italy,Scala,4
+Italy,SQL,12
+Italy,VBA,2
+Italy,Visual Basic 6,1
+Italy,NA,2
+Japan,Bash/Shell,2
+Japan,C,1
+Japan,C#,1
+Japan,C++,1
+Japan,Groovy,1
+Japan,Java,1
+Japan,JavaScript,1
+Japan,Matlab,1
+Japan,Objective-C,1
+Japan,Python,1
+Japan,R,1
+Japan,SQL,1
+Japan,VB.NET,1
+Japan,VBA,1
+Japan,NA,1
+Jordan,C,1
+Jordan,C#,1
+Jordan,C++,1
+Jordan,HTML,1
+Jordan,Python,2
+Kazakhstan,NA,1
+Kenya,CSS,1
+Kenya,HTML,1
+Kenya,JavaScript,1
+Kenya,Python,1
+Kenya,R,1
+Kenya,NA,1
+Kuwait,C,1
+Kuwait,C++,1
+Kuwait,R,1
+Kuwait,SQL,1
+Kuwait,VBA,1
+Kuwait,NA,1
+Latvia,Python,1
+Latvia,NA,1
+Lebanon,SQL,1
+Lebanon,NA,1
+Lithuania,Python,1
+Lithuania,R,1
+Lithuania,SQL,2
+Lithuania,VB.NET,1
+Lithuania,VBA,1
+Lithuania,NA,2
+Luxembourg,Matlab,1
+Luxembourg,R,1
+Malaysia,Assembly,1
+Malaysia,Bash/Shell,1
+Malaysia,C#,1
+Malaysia,CoffeeScript,1
+Malaysia,Go,1
+Malaysia,Hack,1
+Malaysia,HTML,1
+Malaysia,Java,1
+Malaysia,Matlab,1
+Malaysia,PHP,1
+Malaysia,Python,2
+Malaysia,R,2
+Malaysia,Scala,2
+Malaysia,SQL,2
+Malaysia,Swift,1
+Malaysia,TypeScript,1
+Malaysia,VBA,1
+Malaysia,NA,2
+Maldives,Bash/Shell,1
+Maldives,C,1
+Maldives,C++,1
+Maldives,CSS,1
+Maldives,HTML,1
+Maldives,Java,1
+Maldives,JavaScript,1
+Maldives,Lua,1
+Maldives,PHP,1
+Maldives,Python,1
+Maldives,Ruby,1
+Maldives,SQL,1
+Maldives,VBA,1
+Maldives,Visual Basic 6,1
+Malta,Java,1
+Malta,Matlab,1
+Malta,Python,1
+Malta,SQL,1
+Mauritius,Bash/Shell,1
+Mauritius,C,1
+Mauritius,C#,1
+Mauritius,C++,1
+Mauritius,CSS,1
+Mauritius,HTML,1
+Mauritius,Java,1
+Mauritius,JavaScript,1
+Mauritius,PHP,1
+Mauritius,Python,1
+Mauritius,SQL,1
+Mauritius,VB.NET,1
+Mauritius,Visual Basic 6,1
+Mexico,Assembly,2
+Mexico,Bash/Shell,3
+Mexico,C#,3
+Mexico,CSS,3
+Mexico,Go,1
+Mexico,HTML,3
+Mexico,JavaScript,5
+Mexico,Lua,1
+Mexico,PHP,1
+Mexico,Python,7
+Mexico,R,2
+Mexico,Ruby,1
+Mexico,SQL,6
+Mexico,VB.NET,1
+Mexico,VBA,1
+Morocco,Bash/Shell,1
+Morocco,C,2
+Morocco,C#,1
+Morocco,C++,2
+Morocco,CSS,3
+Morocco,Go,1
+Morocco,HTML,3
+Morocco,Java,1
+Morocco,JavaScript,3
+Morocco,Perl,1
+Morocco,PHP,1
+Morocco,Python,3
+Morocco,R,1
+Morocco,Ruby,2
+Morocco,SQL,3
+Morocco,VBA,1
+Mozambique,JavaScript,1
+Mozambique,Python,1
+Mozambique,R,1
+Mozambique,SQL,1
+Nepal,Assembly,1
+Nepal,Bash/Shell,1
+Nepal,C,1
+Nepal,C++,1
+Nepal,CSS,2
+Nepal,HTML,2
+Nepal,Java,1
+Nepal,JavaScript,1
+Nepal,Matlab,2
+Nepal,PHP,1
+Nepal,Python,2
+Nepal,R,1
+Nepal,SQL,2
+Netherlands,Assembly,1
+Netherlands,Bash/Shell,6
+Netherlands,C,5
+Netherlands,C#,2
+Netherlands,C++,4
+Netherlands,Cobol,2
+Netherlands,CSS,6
+Netherlands,F#,1
+Netherlands,Go,1
+Netherlands,HTML,7
+Netherlands,Java,2
+Netherlands,JavaScript,5
+Netherlands,Kotlin,1
+Netherlands,Lua,1
+Netherlands,Matlab,1
+Netherlands,PHP,2
+Netherlands,Python,11
+Netherlands,R,10
+Netherlands,Scala,1
+Netherlands,SQL,11
+Netherlands,TypeScript,1
+Netherlands,VB.NET,1
+Netherlands,VBA,2
+Netherlands,Visual Basic 6,1
+Netherlands,NA,4
+New Zealand,Bash/Shell,3
+New Zealand,C,1
+New Zealand,C#,2
+New Zealand,C++,1
+New Zealand,CSS,2
+New Zealand,HTML,2
+New Zealand,Java,2
+New Zealand,PHP,1
+New Zealand,Python,6
+New Zealand,R,5
+New Zealand,SQL,7
+New Zealand,VBA,1
+New Zealand,NA,2
+Nigeria,Assembly,1
+Nigeria,Bash/Shell,1
+Nigeria,C,1
+Nigeria,C#,1
+Nigeria,C++,1
+Nigeria,Clojure,1
+Nigeria,Cobol,1
+Nigeria,CoffeeScript,1
+Nigeria,CSS,2
+Nigeria,Delphi/Object Pascal,1
+Nigeria,Erlang,1
+Nigeria,F#,1
+Nigeria,Go,1
+Nigeria,Groovy,1
+Nigeria,Hack,1
+Nigeria,Haskell,1
+Nigeria,HTML,2
+Nigeria,Java,1
+Nigeria,JavaScript,2
+Nigeria,Julia,1
+Nigeria,Kotlin,1
+Nigeria,Lua,1
+Nigeria,Matlab,1
+Nigeria,Objective-C,1
+Nigeria,Ocaml,1
+Nigeria,Perl,1
+Nigeria,PHP,1
+Nigeria,Python,2
+Nigeria,R,1
+Nigeria,Ruby,1
+Nigeria,Rust,1
+Nigeria,Scala,1
+Nigeria,SQL,1
+Nigeria,Swift,1
+Nigeria,VB.NET,1
+Nigeria,VBA,1
+Nigeria,Visual Basic 6,1
+Norway,Assembly,1
+Norway,Bash/Shell,1
+Norway,C#,3
+Norway,C++,2
+Norway,CSS,3
+Norway,HTML,4
+Norway,Java,1
+Norway,JavaScript,3
+Norway,Matlab,2
+Norway,Perl,1
+Norway,PHP,1
+Norway,Python,5
+Norway,R,5
+Norway,Scala,1
+Norway,SQL,8
+Norway,VB.NET,1
+Norway,NA,2
+Other Country (Not Listed Above),Bash/Shell,1
+Other Country (Not Listed Above),CSS,1
+Other Country (Not Listed Above),HTML,1
+Other Country (Not Listed Above),JavaScript,1
+Other Country (Not Listed Above),Python,1
+Other Country (Not Listed Above),R,1
+Other Country (Not Listed Above),SQL,1
+Pakistan,Assembly,1
+Pakistan,Bash/Shell,1
+Pakistan,C,3
+Pakistan,C#,1
+Pakistan,C++,1
+Pakistan,CSS,1
+Pakistan,HTML,1
+Pakistan,Java,2
+Pakistan,JavaScript,1
+Pakistan,PHP,1
+Pakistan,Python,2
+Pakistan,R,2
+Pakistan,Ruby,1
+Pakistan,SQL,2
+Pakistan,VBA,1
+Pakistan,NA,7
+Peru,Python,1
+Peru,R,1
+Peru,SQL,1
+Philippines,Bash/Shell,2
+Philippines,CSS,1
+Philippines,HTML,1
+Philippines,JavaScript,1
+Philippines,Matlab,2
+Philippines,PHP,1
+Philippines,Python,3
+Philippines,R,2
+Philippines,SQL,3
+Philippines,VBA,1
+Philippines,NA,2
+Poland,Assembly,2
+Poland,Bash/Shell,6
+Poland,C,2
+Poland,C#,6
+Poland,C++,6
+Poland,CSS,2
+Poland,Go,2
+Poland,Groovy,1
+Poland,Haskell,1
+Poland,HTML,2
+Poland,Java,4
+Poland,JavaScript,4
+Poland,Matlab,4
+Poland,Perl,1
+Poland,PHP,1
+Poland,Python,11
+Poland,R,7
+Poland,Ruby,1
+Poland,Rust,1
+Poland,Scala,2
+Poland,SQL,7
+Poland,NA,2
+Portugal,Bash/Shell,2
+Portugal,C,3
+Portugal,C#,2
+Portugal,C++,3
+Portugal,CSS,2
+Portugal,Go,1
+Portugal,HTML,3
+Portugal,Java,1
+Portugal,JavaScript,2
+Portugal,Lua,1
+Portugal,Matlab,2
+Portugal,PHP,2
+Portugal,Python,5
+Portugal,R,2
+Portugal,Scala,1
+Portugal,SQL,3
+Portugal,VBA,1
+Romania,C#,1
+Romania,CSS,1
+Romania,Go,1
+Romania,HTML,1
+Romania,Java,2
+Romania,JavaScript,1
+Romania,Perl,1
+Romania,Python,3
+Romania,R,2
+Romania,SQL,1
+Romania,NA,1
+Russian Federation,Bash/Shell,5
+Russian Federation,C,2
+Russian Federation,C++,6
+Russian Federation,CSS,3
+Russian Federation,Haskell,1
+Russian Federation,HTML,3
+Russian Federation,Java,2
+Russian Federation,Matlab,2
+Russian Federation,PHP,2
+Russian Federation,Python,10
+Russian Federation,R,3
+Russian Federation,Ruby,1
+Russian Federation,Scala,3
+Russian Federation,SQL,4
+Russian Federation,VB.NET,1
+Russian Federation,VBA,2
+Russian Federation,NA,6
+Saudi Arabia,Bash/Shell,1
+Saudi Arabia,C#,1
+Saudi Arabia,CSS,1
+Saudi Arabia,HTML,1
+Saudi Arabia,JavaScript,1
+Saudi Arabia,Matlab,1
+Saudi Arabia,PHP,1
+Saudi Arabia,Python,1
+Saudi Arabia,SQL,2
+Saudi Arabia,VBA,1
+Serbia,Bash/Shell,1
+Serbia,CSS,1
+Serbia,HTML,1
+Serbia,JavaScript,1
+Serbia,PHP,1
+Serbia,Python,1
+Serbia,SQL,1
+Serbia,NA,1
+Singapore,Bash/Shell,4
+Singapore,C,1
+Singapore,C#,2
+Singapore,C++,4
+Singapore,CSS,2
+Singapore,Groovy,1
+Singapore,HTML,2
+Singapore,Java,2
+Singapore,JavaScript,2
+Singapore,Julia,1
+Singapore,Matlab,3
+Singapore,Python,6
+Singapore,R,6
+Singapore,Scala,2
+Singapore,SQL,5
+Singapore,TypeScript,1
+Singapore,VB.NET,1
+Singapore,VBA,1
+Singapore,NA,1
+Slovakia,Bash/Shell,1
+Slovakia,CSS,1
+Slovakia,Go,1
+Slovakia,HTML,1
+Slovakia,JavaScript,2
+Slovakia,PHP,1
+Slovakia,Python,2
+Slovakia,SQL,1
+Slovakia,TypeScript,1
+Slovakia,NA,1
+Slovenia,C++,1
+Slovenia,Delphi/Object Pascal,1
+Slovenia,Python,1
+Slovenia,SQL,1
+South Africa,Bash/Shell,1
+South Africa,C++,2
+South Africa,Java,1
+South Africa,Matlab,1
+South Africa,Python,1
+South Africa,R,1
+South Africa,Scala,1
+South Africa,SQL,4
+South Africa,VBA,1
+South Africa,NA,1
+South Korea,CSS,1
+South Korea,HTML,1
+South Korea,Python,2
+South Korea,R,2
+South Korea,SQL,1
+Spain,Bash/Shell,11
+Spain,C,1
+Spain,C++,6
+Spain,Cobol,2
+Spain,CSS,3
+Spain,HTML,5
+Spain,Java,8
+Spain,JavaScript,8
+Spain,Lua,3
+Spain,Matlab,3
+Spain,Perl,2
+Spain,PHP,1
+Spain,Python,17
+Spain,R,12
+Spain,Ruby,2
+Spain,Scala,3
+Spain,SQL,12
+Spain,Swift,1
+Spain,VB.NET,1
+Spain,VBA,4
+Spain,Visual Basic 6,1
+Spain,NA,4
+Sudan,NA,1
+Sweden,Bash/Shell,2
+Sweden,C++,2
+Sweden,Delphi/Object Pascal,1
+Sweden,Java,2
+Sweden,Matlab,1
+Sweden,Objective-C,1
+Sweden,Perl,2
+Sweden,Python,6
+Sweden,R,6
+Sweden,Scala,1
+Sweden,SQL,5
+Sweden,Swift,1
+Sweden,NA,2
+Switzerland,Bash/Shell,4
+Switzerland,C#,1
+Switzerland,C++,1
+Switzerland,CSS,3
+Switzerland,HTML,3
+Switzerland,JavaScript,3
+Switzerland,Lua,1
+Switzerland,Matlab,1
+Switzerland,PHP,1
+Switzerland,Python,7
+Switzerland,R,3
+Switzerland,Scala,1
+Switzerland,SQL,5
+Switzerland,NA,4
+Taiwan,Bash/Shell,2
+Taiwan,C,1
+Taiwan,C++,2
+Taiwan,HTML,1
+Taiwan,Java,1
+Taiwan,Matlab,1
+Taiwan,Perl,1
+Taiwan,Python,2
+Taiwan,R,1
+Taiwan,Ruby,1
+Taiwan,SQL,1
+Taiwan,VB.NET,1
+Taiwan,VBA,1
+Taiwan,Visual Basic 6,1
+Taiwan,NA,1
+Thailand,C,1
+Thailand,C#,1
+Thailand,C++,1
+Thailand,HTML,1
+Thailand,Python,1
+Thailand,SQL,1
+Thailand,NA,1
+Tunisia,NA,2
+Turkey,Assembly,2
+Turkey,Bash/Shell,4
+Turkey,C,3
+Turkey,C#,2
+Turkey,C++,3
+Turkey,CSS,3
+Turkey,Delphi/Object Pascal,1
+Turkey,Groovy,1
+Turkey,Haskell,1
+Turkey,HTML,3
+Turkey,Java,4
+Turkey,JavaScript,2
+Turkey,Matlab,5
+Turkey,PHP,3
+Turkey,Python,7
+Turkey,R,4
+Turkey,Scala,1
+Turkey,SQL,6
+Turkey,VB.NET,1
+Turkey,VBA,1
+Turkey,NA,1
+Uganda,C,1
+Uganda,HTML,1
+Uganda,Java,2
+Uganda,VB.NET,1
+Uganda,VBA,2
+Ukraine,Assembly,1
+Ukraine,Bash/Shell,1
+Ukraine,C#,2
+Ukraine,C++,1
+Ukraine,CSS,5
+Ukraine,HTML,5
+Ukraine,Java,2
+Ukraine,JavaScript,4
+Ukraine,PHP,4
+Ukraine,Python,1
+Ukraine,SQL,6
+Ukraine,VBA,4
+Ukraine,NA,2
+United Kingdom,Assembly,3
+United Kingdom,Bash/Shell,35
+United Kingdom,C,8
+United Kingdom,C#,11
+United Kingdom,C++,12
+United Kingdom,Clojure,1
+United Kingdom,Cobol,1
+United Kingdom,CoffeeScript,1
+United Kingdom,CSS,32
+United Kingdom,F#,1
+United Kingdom,Go,5
+United Kingdom,Haskell,5
+United Kingdom,HTML,41
+United Kingdom,Java,20
+United Kingdom,JavaScript,36
+United Kingdom,Julia,2
+United Kingdom,Kotlin,1
+United Kingdom,Matlab,13
+United Kingdom,Objective-C,2
+United Kingdom,Perl,4
+United Kingdom,PHP,8
+United Kingdom,Python,64
+United Kingdom,R,49
+United Kingdom,Ruby,3
+United Kingdom,Rust,1
+United Kingdom,Scala,10
+United Kingdom,SQL,64
+United Kingdom,Swift,2
+United Kingdom,TypeScript,3
+United Kingdom,VB.NET,5
+United Kingdom,VBA,18
+United Kingdom,Visual Basic 6,4
+United Kingdom,NA,13
+United Republic of Tanzania,C,1
+United Republic of Tanzania,C++,1
+United Republic of Tanzania,CSS,1
+United Republic of Tanzania,HTML,1
+United Republic of Tanzania,Java,1
+United Republic of Tanzania,JavaScript,1
+United Republic of Tanzania,SQL,1
+United Republic of Tanzania,Visual Basic 6,1
+United States,Assembly,12
+United States,Bash/Shell,163
+United States,C,40
+United States,C#,36
+United States,C++,57
+United States,Clojure,5
+United States,Cobol,5
+United States,CoffeeScript,6
+United States,CSS,101
+United States,Delphi/Object Pascal,1
+United States,Erlang,2
+United States,F#,1
+United States,Go,20
+United States,Groovy,5
+United States,Hack,1
+United States,Haskell,9
+United States,HTML,120
+United States,Java,87
+United States,JavaScript,90
+United States,Julia,11
+United States,Lua,4
+United States,Matlab,29
+United States,Objective-C,3
+United States,Ocaml,1
+United States,Perl,15
+United States,PHP,15
+United States,Python,268
+United States,R,190
+United States,Ruby,10
+United States,Rust,8
+United States,Scala,47
+United States,SQL,236
+United States,Swift,7
+United States,TypeScript,5
+United States,VB.NET,7
+United States,VBA,60
+United States,Visual Basic 6,7
+United States,NA,44
+Uruguay,R,1
+"Venezuela, Bolivarian Republic of...",Assembly,1
+"Venezuela, Bolivarian Republic of...",C,1
+"Venezuela, Bolivarian Republic of...",C#,1
+"Venezuela, Bolivarian Republic of...",C++,1
+"Venezuela, Bolivarian Republic of...",CSS,1
+"Venezuela, Bolivarian Republic of...",HTML,1
+"Venezuela, Bolivarian Republic of...",JavaScript,1
+"Venezuela, Bolivarian Republic of...",Matlab,1
+"Venezuela, Bolivarian Republic of...",Python,1
+"Venezuela, Bolivarian Republic of...",R,1
+"Venezuela, Bolivarian Republic of...",SQL,1
+"Venezuela, Bolivarian Republic of...",VBA,1
+Viet Nam,Bash/Shell,1
+Viet Nam,C,2
+Viet Nam,C#,1
+Viet Nam,C++,1
+Viet Nam,CSS,3
+Viet Nam,Go,1
+Viet Nam,HTML,3
+Viet Nam,Java,3
+Viet Nam,JavaScript,3
+Viet Nam,Python,3
+Viet Nam,R,1
+Viet Nam,Ruby,1

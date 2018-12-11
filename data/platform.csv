@@ -1,0 +1,502 @@
+Country,PlatformWorkedWith,Count
+Albania,Windows Desktop or Server,1
+Algeria,Android,1
+Algeria,Windows Desktop or Server,2
+Andorra,Android,1
+Argentina,AWS,1
+Argentina,Linux,1
+Argentina,Mac OS,1
+Argentina,Raspberry Pi,1
+Argentina,Serverless,1
+Australia,Android,2
+Australia,AWS,7
+Australia,Azure,3
+Australia,Google Cloud Platform/App Engine,3
+Australia,Heroku,2
+Australia,IBM Cloud or Watson,2
+Australia,iOS,1
+Australia,Linux,13
+Australia,Mac OS,4
+Australia,Raspberry Pi,1
+Australia,Salesforce,1
+Australia,Serverless,1
+Australia,SharePoint,2
+Australia,Windows Desktop or Server,8
+Australia,Windows Phone,1
+Australia,WordPress,1
+Austria,AWS,1
+Austria,Azure,1
+Austria,Linux,3
+Austria,Windows Desktop or Server,3
+Bangladesh,Windows Desktop or Server,1
+Belgium,Amazon Echo,1
+Belgium,Android,2
+Belgium,Google Cloud Platform/App Engine,1
+Belgium,IBM Cloud or Watson,1
+Belgium,Linux,3
+Belgium,Mac OS,2
+Belgium,Raspberry Pi,1
+Belgium,Windows Desktop or Server,4
+Brazil,AWS,3
+Brazil,Azure,3
+Brazil,Drupal,1
+Brazil,Firebase,1
+Brazil,IBM Cloud or Watson,1
+Brazil,Linux,3
+Brazil,Salesforce,1
+Brazil,SharePoint,1
+Brazil,Windows Desktop or Server,4
+Bulgaria,Google Cloud Platform/App Engine,1
+Bulgaria,Windows Desktop or Server,1
+Canada,Android,3
+Canada,Apple Watch or Apple TV,1
+Canada,Arduino,3
+Canada,AWS,9
+Canada,Azure,5
+Canada,Firebase,1
+Canada,Google Cloud Platform/App Engine,3
+Canada,IBM Cloud or Watson,3
+Canada,iOS,2
+Canada,Linux,12
+Canada,Mac OS,4
+Canada,Raspberry Pi,6
+Canada,Salesforce,1
+Canada,SharePoint,2
+Canada,Windows Desktop or Server,9
+Canada,WordPress,2
+Chile,Azure,1
+Chile,Linux,2
+Chile,Raspberry Pi,1
+Chile,Windows Desktop or Server,1
+China,Arduino,1
+China,AWS,2
+China,Google Cloud Platform/App Engine,1
+China,Google Home,1
+China,Heroku,1
+China,Linux,12
+China,Mac OS,5
+China,Windows Desktop or Server,3
+China,Windows Phone,1
+Colombia,Android,1
+Colombia,AWS,1
+Colombia,Google Cloud Platform/App Engine,1
+Colombia,Mac OS,1
+Colombia,WordPress,1
+Cyprus,Windows Desktop or Server,1
+Czech Republic,Android,3
+Czech Republic,Apple Watch or Apple TV,1
+Czech Republic,AWS,3
+Czech Republic,Google Cloud Platform/App Engine,1
+Czech Republic,Linux,5
+Czech Republic,Mac OS,1
+Czech Republic,Mainframe,2
+Czech Republic,Windows Desktop or Server,2
+Czech Republic,WordPress,2
+Denmark,AWS,2
+Denmark,Azure,1
+Denmark,Linux,3
+Denmark,Raspberry Pi,1
+Denmark,Windows Desktop or Server,3
+Egypt,Windows Desktop or Server,2
+Finland,AWS,1
+Finland,Azure,1
+Finland,Gaming console,1
+Finland,Heroku,1
+Finland,Linux,1
+Finland,Mac OS,1
+Finland,SharePoint,1
+Finland,Windows Desktop or Server,1
+France,Amazon Echo,1
+France,Android,2
+France,Arduino,3
+France,AWS,9
+France,Firebase,1
+France,Google Cloud Platform/App Engine,1
+France,Heroku,2
+France,IBM Cloud or Watson,2
+France,Linux,19
+France,Mac OS,6
+France,Raspberry Pi,5
+France,Windows Desktop or Server,8
+France,WordPress,2
+Germany,Amazon Echo,1
+Germany,Android,9
+Germany,Apple Watch or Apple TV,1
+Germany,Arduino,3
+Germany,AWS,12
+Germany,Azure,4
+Germany,ESP8266,1
+Germany,Firebase,3
+Germany,Google Home,1
+Germany,Heroku,2
+Germany,IBM Cloud or Watson,1
+Germany,iOS,2
+Germany,Linux,38
+Germany,Mac OS,8
+Germany,Raspberry Pi,14
+Germany,Salesforce,1
+Germany,Serverless,2
+Germany,SharePoint,4
+Germany,Windows Desktop or Server,18
+Germany,WordPress,3
+Ghana,Heroku,1
+Ghana,Linux,1
+Greece,Linux,1
+Greece,Windows Desktop or Server,1
+Guatemala,Android,1
+Guatemala,Linux,1
+Hong Kong (S.A.R.),Firebase,1
+Hong Kong (S.A.R.),Google Cloud Platform/App Engine,1
+Hong Kong (S.A.R.),Linux,3
+Hong Kong (S.A.R.),Raspberry Pi,1
+Hong Kong (S.A.R.),Windows Desktop or Server,2
+Hong Kong (S.A.R.),WordPress,1
+Hungary,AWS,1
+Hungary,Linux,3
+Hungary,SharePoint,1
+Hungary,Windows Desktop or Server,1
+Hungary,WordPress,1
+India,Amazon Echo,2
+India,Android,11
+India,Arduino,10
+India,AWS,23
+India,Azure,6
+India,Drupal,1
+India,ESP8266,1
+India,Firebase,6
+India,Google Cloud Platform/App Engine,9
+India,Heroku,6
+India,IBM Cloud or Watson,2
+India,iOS,2
+India,Linux,47
+India,Mac OS,8
+India,Mainframe,2
+India,Raspberry Pi,9
+India,Salesforce,2
+India,Serverless,2
+India,SharePoint,2
+India,Windows Desktop or Server,23
+India,Windows Phone,1
+India,WordPress,7
+Indonesia,Android,1
+Indonesia,Linux,1
+Indonesia,Mac OS,1
+Indonesia,Windows Desktop or Server,1
+"Iran, Islamic Republic of...",Linux,1
+"Iran, Islamic Republic of...",Windows Desktop or Server,1
+Iraq,Android,1
+Ireland,AWS,1
+Ireland,Google Cloud Platform/App Engine,1
+Ireland,IBM Cloud or Watson,2
+Ireland,Linux,3
+Ireland,Mac OS,1
+Israel,Amazon Echo,1
+Israel,Android,1
+Israel,AWS,4
+Israel,Azure,1
+Israel,Firebase,1
+Israel,Google Cloud Platform/App Engine,3
+Israel,IBM Cloud or Watson,2
+Israel,Linux,7
+Israel,Raspberry Pi,1
+Israel,Serverless,1
+Israel,Windows Desktop or Server,1
+Israel,WordPress,2
+Italy,Android,2
+Italy,Arduino,2
+Italy,AWS,4
+Italy,Azure,1
+Italy,Firebase,1
+Italy,Google Cloud Platform/App Engine,1
+Italy,Heroku,1
+Italy,IBM Cloud or Watson,2
+Italy,Linux,5
+Italy,Mac OS,4
+Italy,Salesforce,1
+Italy,Windows Desktop or Server,4
+Japan,Arduino,1
+Japan,AWS,1
+Japan,Linux,1
+Japan,Mac OS,1
+Japan,Raspberry Pi,1
+Japan,Windows Desktop or Server,2
+Kenya,Windows Desktop or Server,1
+Kuwait,Windows Desktop or Server,1
+Latvia,Linux,1
+Lebanon,Linux,1
+Lebanon,Windows Desktop or Server,1
+Malaysia,Android,1
+Malaysia,ESP8266,1
+Malaysia,Firebase,1
+Malaysia,Gaming console,1
+Malaysia,Google Cloud Platform/App Engine,1
+Malaysia,Google Home,1
+Malaysia,iOS,1
+Malaysia,Mainframe,1
+Malaysia,Predix,1
+Malaysia,Serverless,1
+Malaysia,SharePoint,1
+Malaysia,Windows Desktop or Server,1
+Malaysia,Windows Phone,1
+Malaysia,WordPress,1
+Maldives,Android,1
+Maldives,Arduino,1
+Maldives,ESP8266,1
+Maldives,Firebase,1
+Maldives,Google Home,1
+Maldives,Linux,1
+Maldives,Raspberry Pi,1
+Maldives,Windows Desktop or Server,1
+Malta,Android,1
+Malta,Arduino,1
+Malta,Linux,1
+Malta,Raspberry Pi,1
+Malta,Windows Desktop or Server,1
+Mauritius,Mainframe,1
+Mauritius,Windows Desktop or Server,1
+Mexico,Amazon Echo,1
+Mexico,Arduino,1
+Mexico,AWS,2
+Mexico,Azure,1
+Mexico,Drupal,1
+Mexico,Firebase,1
+Mexico,Google Cloud Platform/App Engine,2
+Mexico,Linux,4
+Mexico,Mac OS,2
+Mexico,Windows Desktop or Server,1
+Mexico,WordPress,1
+Morocco,Android,1
+Morocco,AWS,1
+Morocco,Heroku,1
+Morocco,IBM Cloud or Watson,1
+Morocco,Linux,1
+Morocco,Mac OS,1
+Morocco,Windows Desktop or Server,2
+Morocco,WordPress,1
+Nepal,Firebase,1
+Nepal,Linux,1
+Nepal,Windows Desktop or Server,1
+Netherlands,Android,1
+Netherlands,AWS,1
+Netherlands,Azure,2
+Netherlands,Drupal,1
+Netherlands,ESP8266,1
+Netherlands,Heroku,1
+Netherlands,Linux,6
+Netherlands,Mac OS,2
+Netherlands,Mainframe,1
+Netherlands,SharePoint,1
+Netherlands,Windows Desktop or Server,5
+New Zealand,Android,1
+New Zealand,Azure,1
+New Zealand,Linux,1
+New Zealand,Windows Desktop or Server,4
+Nigeria,Amazon Echo,1
+Nigeria,Android,1
+Nigeria,Apple Watch or Apple TV,1
+Nigeria,Arduino,1
+Nigeria,AWS,1
+Nigeria,Azure,1
+Nigeria,Drupal,1
+Nigeria,ESP8266,1
+Nigeria,Firebase,1
+Nigeria,Gaming console,1
+Nigeria,Google Cloud Platform/App Engine,1
+Nigeria,Google Home,1
+Nigeria,Heroku,1
+Nigeria,IBM Cloud or Watson,1
+Nigeria,iOS,1
+Nigeria,Linux,1
+Nigeria,Mac OS,1
+Nigeria,Mainframe,1
+Nigeria,Predix,1
+Nigeria,Raspberry Pi,1
+Nigeria,Salesforce,1
+Nigeria,Serverless,1
+Nigeria,SharePoint,1
+Nigeria,Windows Desktop or Server,1
+Nigeria,Windows Phone,1
+Nigeria,WordPress,1
+Norway,Arduino,1
+Norway,Azure,2
+Norway,Linux,1
+Norway,Mac OS,1
+Norway,Raspberry Pi,1
+Norway,Windows Desktop or Server,2
+Other Country (Not Listed Above),AWS,1
+Other Country (Not Listed Above),Linux,1
+Other Country (Not Listed Above),Mac OS,1
+Other Country (Not Listed Above),Raspberry Pi,1
+Other Country (Not Listed Above),Windows Desktop or Server,1
+Pakistan,Amazon Echo,1
+Pakistan,Android,1
+Pakistan,Apple Watch or Apple TV,1
+Pakistan,AWS,1
+Pakistan,Azure,1
+Pakistan,Firebase,1
+Pakistan,Heroku,1
+Pakistan,Linux,2
+Peru,Google Cloud Platform/App Engine,1
+Peru,Windows Desktop or Server,1
+Philippines,AWS,1
+Philippines,Heroku,1
+Philippines,Linux,1
+Philippines,Serverless,1
+Philippines,SharePoint,1
+Philippines,Windows Desktop or Server,1
+Poland,Android,3
+Poland,Arduino,2
+Poland,AWS,1
+Poland,Azure,1
+Poland,Google Cloud Platform/App Engine,2
+Poland,Linux,11
+Poland,Mac OS,3
+Poland,Raspberry Pi,2
+Poland,Windows Desktop or Server,6
+Poland,Windows Phone,1
+Poland,WordPress,1
+Portugal,Arduino,1
+Portugal,AWS,1
+Portugal,Firebase,2
+Portugal,Linux,2
+Portugal,Mac OS,2
+Portugal,Windows Desktop or Server,3
+Russian Federation,AWS,4
+Russian Federation,Heroku,1
+Russian Federation,Linux,9
+Russian Federation,Mac OS,2
+Russian Federation,Windows Desktop or Server,6
+Saudi Arabia,Arduino,1
+Saudi Arabia,Linux,1
+Saudi Arabia,Raspberry Pi,1
+Saudi Arabia,SharePoint,1
+Saudi Arabia,Windows Desktop or Server,1
+Serbia,AWS,1
+Serbia,Linux,1
+Singapore,AWS,2
+Singapore,Firebase,1
+Singapore,Google Cloud Platform/App Engine,1
+Singapore,Heroku,1
+Singapore,IBM Cloud or Watson,1
+Singapore,Linux,2
+Singapore,Mac OS,1
+Singapore,Raspberry Pi,2
+Singapore,Windows Desktop or Server,2
+Slovakia,Google Cloud Platform/App Engine,1
+Slovakia,Linux,1
+Slovakia,Windows Desktop or Server,1
+Slovenia,Windows Desktop or Server,1
+South Africa,Arduino,1
+South Africa,Linux,2
+South Africa,Mac OS,1
+South Africa,Raspberry Pi,1
+South Africa,Windows Desktop or Server,1
+South Korea,Google Cloud Platform/App Engine,1
+Spain,Android,2
+Spain,AWS,2
+Spain,Azure,2
+Spain,Drupal,1
+Spain,iOS,1
+Spain,Linux,12
+Spain,Mac OS,2
+Spain,Mainframe,1
+Spain,Raspberry Pi,1
+Spain,Windows Desktop or Server,4
+Sweden,Android,1
+Sweden,Apple Watch or Apple TV,1
+Sweden,Google Cloud Platform/App Engine,1
+Sweden,Heroku,1
+Sweden,Linux,2
+Sweden,Mac OS,1
+Sweden,Salesforce,1
+Sweden,SharePoint,1
+Sweden,Windows Desktop or Server,3
+Switzerland,Android,1
+Switzerland,Linux,2
+Switzerland,Mac OS,1
+Switzerland,Raspberry Pi,1
+Switzerland,Serverless,1
+Taiwan,Linux,1
+Thailand,Windows Desktop or Server,1
+Turkey,Android,2
+Turkey,Arduino,2
+Turkey,Firebase,1
+Turkey,iOS,1
+Turkey,Linux,3
+Turkey,Mac OS,3
+Turkey,Raspberry Pi,2
+Turkey,Windows Desktop or Server,4
+Turkey,Windows Phone,1
+Turkey,WordPress,1
+Uganda,Android,1
+Uganda,Google Cloud Platform/App Engine,1
+Uganda,Google Home,1
+Uganda,Windows Phone,1
+Uganda,WordPress,2
+Ukraine,Amazon Echo,1
+Ukraine,Android,2
+Ukraine,Azure,1
+Ukraine,Google Cloud Platform/App Engine,1
+Ukraine,Heroku,1
+Ukraine,iOS,1
+Ukraine,Salesforce,1
+Ukraine,Windows Desktop or Server,1
+United Kingdom,Amazon Echo,2
+United Kingdom,Android,5
+United Kingdom,Arduino,2
+United Kingdom,AWS,17
+United Kingdom,Azure,6
+United Kingdom,ESP8266,1
+United Kingdom,Firebase,1
+United Kingdom,Gaming console,1
+United Kingdom,Google Cloud Platform/App Engine,5
+United Kingdom,Heroku,2
+United Kingdom,iOS,2
+United Kingdom,Linux,33
+United Kingdom,Mac OS,11
+United Kingdom,Raspberry Pi,10
+United Kingdom,Salesforce,2
+United Kingdom,Serverless,1
+United Kingdom,SharePoint,2
+United Kingdom,Windows Desktop or Server,24
+United Kingdom,WordPress,1
+United Republic of Tanzania,Android,1
+United Republic of Tanzania,Arduino,1
+United Republic of Tanzania,Windows Desktop or Server,1
+United Republic of Tanzania,WordPress,1
+United States,Amazon Echo,8
+United States,Android,15
+United States,Apple Watch or Apple TV,2
+United States,Arduino,16
+United States,AWS,75
+United States,Azure,16
+United States,Drupal,1
+United States,ESP8266,1
+United States,Firebase,3
+United States,Gaming console,3
+United States,Google Cloud Platform/App Engine,25
+United States,Heroku,16
+United States,IBM Cloud or Watson,6
+United States,iOS,11
+United States,Linux,111
+United States,Mac OS,55
+United States,Mainframe,2
+United States,Raspberry Pi,30
+United States,Salesforce,12
+United States,Serverless,6
+United States,SharePoint,10
+United States,Windows Desktop or Server,64
+United States,Windows Phone,1
+United States,WordPress,6
+"Venezuela, Bolivarian Republic of...",Android,1
+"Venezuela, Bolivarian Republic of...",Arduino,1
+"Venezuela, Bolivarian Republic of...",ESP8266,1
+Viet Nam,Android,2
+Viet Nam,AWS,1
+Viet Nam,Firebase,2
+Viet Nam,Google Cloud Platform/App Engine,1
+Viet Nam,Heroku,2
+Viet Nam,iOS,1
+Viet Nam,Linux,1
+Viet Nam,Mac OS,1
+Viet Nam,Raspberry Pi,1
